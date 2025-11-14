@@ -1,0 +1,1730 @@
+[
+    {
+        "chunk": ":pizza: cs18a wiki へようこそ\r\n\r\ncs18a wiki は研究室内限定の知識共有 wikiです．大事だけど忘れそうなこととか，研究のメモとかをまとめて，ドカドカ共有しましょう．\r\nS班もそのうち合流したらいいな．\r\n\r\n守ってほしいこと\r\n 共同研究先から頂いた社外秘の生データ等，機密性の高いものはアップロードしない\r\n 大量すぎるデータは運営に睨まれるのでアップロードしない（1日でGB単位で上げまくるとかは多分だめ）\r\n\r\n係\r\n\r\n| 係   | メンバー  | 内容            |\r\n| -------- | ---------------------- |---- |\r\n| イベント |船木，松本 |講座旅行，懇親会の日程決めなど | \r\n| ミーティング |伊藤，濱田|ミーティングの司会進行   |\r\n| 輪講 |濱田|輪講の司会進行 | \r\n| WEB管理者      | 山下，浅尾，早田 |HP，wikiの管理 |\r\n|記録（写真）   | 早田 |研究室のイベント等を記録|\r\n| サーバー管理 |髙永，佐々木  |サーバーの管理 | \r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/1",
+            "title": "README",
+            "category": null,
+            "tags": []
+        }
+    },
+    {
+        "chunk": "| 環境 |濱田 |研究室の環境整備，週番の管理 |\r\n| 会計 | 橋本，佐々木 | 講座費の回収，管理，コーヒーの発注 |\r\n| 週番 | 浅原，岡田，柴田，多喜，平石 |ゴミ捨て，掃除機，コーヒー準備  |\r\n\r\n\r\n\r\n座席表\r\n<img width=\"338.5\" alt=\"0AF73AA6-99D7-4D35-B7FF-D86772DC8EC71201a.jpeg (65.6 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2025/10/30/165906/c2e9f455-77c7-4fe5-b35a-f721eec1364a.jpeg\">\r\n\r\n\r\n\r\n\r\n \r\n\r\n周辺機器\r\n自分のデスク周辺機器の種類(モニター、キーボード、マウス)、名前、製造年月日、台数の記録をこのスプレッドシートにお願いします\r\nhttps://docs.google.com/spreadsheets/d/11cpNDYKt-3eelR9RQlKhSQ0j8uJdsoADIasyodDRLI/edit\r\n\r",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/1",
+            "title": "README",
+            "category": null,
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\n学会リスト\r\n学会に参加した人や参加予定の人はわかる範囲で書き込んでください\r\nhttps://docs.google.com/spreadsheets/d/1WxlZiN9KABTWtwYjIaIXXRngcoV7IeO2/edit?gid=103267699gid=103267699\r\n\r\n今後の予定\r\nこれまでの予定は\r\n\r\n\r\n次回F班MTG\r\n日時：2025年11月7日(金) 14:00- \r\n内容：発表（，）\r\n\r\n\r\n記事の作り方\r\n左上の \"NEW POST\" から記事を書き始めることができます．最初は自分の名前で自己紹介ページを作ってみよう．\r\n文法については，ヘルプを見るか，他の人のページをパクってください（このページを「Edit」で開くなど）\r\n記事タイトル入力欄に，半角の / (スラッシュ) 区切りでカテゴリを作ることができます\r\n（例）カテゴリ1/カテゴリ2/記事タイトル のように入力してみてください\r\n画像等の添付ファイルもコピペやドラッグアンドドロップで貼ることができます\r\n\r\n\r\n:pointright: さらに詳しくはこちら: \r\n\r\n利用延長につい",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/1",
+            "title": "README",
+            "category": null,
+            "tags": []
+        }
+    },
+    {
+        "chunk": "て\r\n毎年1月末に期限が切れるので，管理者の方はアカデミックプランの延長をお願いします．\r\nhttps://docs.esa.io/posts/129",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/1",
+            "title": "README",
+            "category": null,
+            "tags": []
+        }
+    },
+    {
+        "chunk": "<details><summary>4月</summary>\r\n\r\nF班MTG\r\n日時：2025年4月1日(火) 10:30\r\n内容：発表（池岡）\r\n\r\n新B4顔合わせ\r\n日時：2025年4月2日(水) 10:40\r\n場所：システム棟 5階 S511\r\n\r\nF班MTG\r\n日時：2025年4月10日(木) 10:00\r\n内容：発表（松本）\r\n\r\nF班MTG\r\n日時：2025年4月17日(木) 13:00\r\n内容：藤井先生のお話\r\n\r\nF班MTG\r\n日時：2025年4月22日(火) 10:40\r\n内容：発表（佐々木，濱田）\r\n\r\n新歓\r\n日時：2025年4月22日(火) 19:00\r\n店名：個室×食べ飲み放題専門店　月下美人三宮店\r\n場所：兵庫県神戸市中央区北長狭通 2-11-5 グランドコーストビルB1F\r\n詳細：https://www.hotpepper.jp/strJ001226352/\r\n\r\n</details>\r\n\r\n<details><summary>5月</summary>\r\n\r\nF班MTG\r\n日時：2025年5月1日(木) 13:00\r\n内容：発表（池岡，高永）\r\n\r\nF班",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/87",
+            "title": "スケジュール/2025年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "MTG\r\n日時：2025年5月9日(金) 9:00\r\n内容：発表（M1,M2の進捗確認）\r\n\r\nF班MTG\r\n日時：2025年5月14日(水) 13:20\r\n内容：発表（松本）\r\n\r\nF班MTG\r\n日時：2025年5月22日(木) 9:00\r\n内容：発表（M2の発表練習）\r\n\r\nF班MTG\r\n日時：2025年5月30日(金) 10:00\r\n内容：発表（山下，池岡）\r\n\r\n</details>\r\n\r\n<details><summary>6月</summary>\r\n\r\nF班MTG\r\n日時：2025年6月4日(金) 13:00\r\n内容：発表（池岡）\r\n\r\nF班MTG\r\n日時：2025年6月12日(金) 9:00\r\n内容：発表（橋本，松本）\r\n\r\n修士前MTG\r\n日時：2025年6月12日(金) 13:20\r\n内容：発表（柴田，多喜，平石）\r\n\r\nF班MTG\r\n日時：2025年6月17日(火) 13:00-15:00\r\n内容：発表（早田，濱田）\r\n\r\n</details>\r\n\r\n<details><summary>7月</summary>\r\n\r\nF班MTG\r\n日時：2025年7月2日(水) 1",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/87",
+            "title": "スケジュール/2025年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "3:00\r\n内容：発表（平石，柴田，多喜）\r\n\r\nカネカ・ワークショップ\r\n日時：2025年7月3日(水) 13:00-15:00\r\n\r\nF班MTG\r\n日時：2025年7月8日(火) 10:00\r\n内容：発表（浅原，岡田）\r\n\r\nF班MTG\r\n日時：2025年7月14日(月) 9:00\r\n内容：発表（佐々木）\r\n\r\nアイデアソン\r\n日時：2025年7月14日(月) 13:20\r\n\r\nアイデアソン\r\n日時：2025年7月22日(火) 9:00-17:00\r\n\r\n飲み会\r\n日時：2025年7月22日(火) 19:00\r\n店名：炭火焼鳥 鶏楽 六甲店\r\n場所：兵庫県神戸市灘区神前町1-2-24\r\n詳細：https://tabelog.com/hyogo/A2801/A280108/28053498/\r\n\r\nカネカ・ワークショップ\r\n日時：2025年7月24日(木) 10:00-17:00\r\n\r\nF班MTG\r\n日時：2025年7月25日(金) 9:30\r\n内容：発表（池岡，山下）\r\n\r\nアイデアソン\r\n日時：2025年7月29日(火) 9:00-17:00\r\n\r\nF班MTG\r\n日時：2025年",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/87",
+            "title": "スケジュール/2025年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "7月30日(水) 13:20\r\n内容：発表（橋本，高永）\r\n\r\n</details>\r\n\r\n<details><summary>8月</summary>\r\n\r\nカネカ・ワークショップ\r\n日時：2025年8月4日(水) 13:00-17:00\r\n\r\nアイデアソン\r\n日時：2025年8月5日(火) 13:20\r\n\r\nF班MTG\r\n日時：2025年8月6日(水) 15:00\r\n内容：発表（松本）\r\n\r\nF班MTG\r\n日時：2025年8月22日(金) 9:30\r\n内容：発表（早田，佐々木）\r\n\r\nF班MTG\r\n日時：2025年8月28日(木) 9:30\r\n内容：発表（高永，岡田）\r\n\r\n</details>\r\n\r\n<details><summary>9月</summary>\r\n\r\nF班MTG\r\n日時：2025年9月4日(木) 13:00\r\n内容：発表（伊藤）\r\n\r\nF班MTG\r\n日時：2025年9月12日(木) 13:00\r\n内容：発表（高永，濱田）\r\n\r\nF班MTG\r\n日時：2025年9月16日(火) 15:00\r\n内容：発表（浅原，山下）\r\n\r\nC3予備学習\r\n日時：2025年9月21日(",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/87",
+            "title": "スケジュール/2025年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "日)\r\n\r\n講座旅行\r\n日時：2025年9月23日(火)，24(水)\r\n\r\nSDGsアイデアソン\r\n日時：2025年9月25日(木) 13:00-17:00\r\n\r\n</details>\r\n\r\n<details><summary>10月</summary>\r\n\r\nF班MTG\r\n日時：2025年10月3日(金) 9:30\r\n内容：発表（柴田，多喜，平石）\r\n\r\nF班MTG\r\n日時：2025年10月9日(木) 9:30\r\n内容：発表（柴田，岡田）\r\n\r\nSDGsアイデアソン\r\n日時：2025年10月9日(木) \r\n\r\nF班MTG\r\n日時：2025年10月17日(金) 9:30\r\n内容：発表（松本，佐々木）\r\n\r\nCS21合同発表会\r\n日時：2025年10月20日(月) 13:00-17:00\r\n\r\nF班MTG\r\n日時：2025年10月22日(火) 13:00\r\n内容：発表（濱田，早田）\r\n\r\nSDGsアイデアソン\r\n日時：2025年10月24日(金)\r\n\r\nF班MTG\r\n日時：2025年10月29日(水) 14:00\r\n内容：発表（高永，浅原）\r\n\r\n</details>\r\n\r\n<detai",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/87",
+            "title": "スケジュール/2025年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ls><summary>11月</summary>\r\n\r\nF班MTG\r\n日時：2025年11月7日(金) 14:00\r\n内容：発表（，）\r\n\r\n</details>",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/87",
+            "title": "スケジュール/2025年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n発表者：濱田\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/119",
+            "title": "MTG/2025年度/2025-10-22",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：浅原\r\n資料\r\n\r\n\r\n発表者：高永\r\n資料\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/120",
+            "title": "MTG/2025年度/2025-10-29",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/118",
+            "title": "MTG/2025年度/2025-10-17",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：柴田\r\n資料\r\n\r\n\r\n発表者：岡田\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/117",
+            "title": "MTG/2025年度/2025-10-09",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：多喜\r\n資料\r\n\r\n\r\n発表者：平石\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/116",
+            "title": "MTG/2025年度/2025-10-03",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：浅原\r\n資料\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/115",
+            "title": "MTG/2025年度/2025-09-16",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：高永\r\n資料\r\n\r\n\r\n発表者：濱田\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/114",
+            "title": "MTG/2025年度/2025-09-12",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：伊藤\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/113",
+            "title": "MTG/2025年度/2025-09-4",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：岡田\r\n資料\r\n\r\n\r\n\r\n発表者：高永\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/112",
+            "title": "MTG/2025年度/2025-08-28",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/111",
+            "title": "MTG/2025年度/2025-08-22",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/110",
+            "title": "MTG/2025年度/2025-08-06",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：高永\r\n資料\r\n\r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/109",
+            "title": "MTG/2025年度/2025-07-30",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/108",
+            "title": "MTG/2025年度/2025-07-25",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/107",
+            "title": "MTG/2025年度/2025-07-14",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：浅原\r\n資料\r\n\r\n\r\n\r\n発表者：岡田\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/106",
+            "title": "MTG/2025年度/2025-07-08",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：平石\r\n資料\r\n\r\n\r\n発表者：柴田\r\n資料\r\n\r\n\r\n\r\n発表者：多喜\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/105",
+            "title": "MTG/2025年度/2025-07-02",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n発表者：濱田\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/104",
+            "title": "MTG/2025年度/2025-06-17",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/103",
+            "title": "MTG/2025年度/2025-06-12",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/102",
+            "title": "MTG/2025年度/2025-06-04",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/101",
+            "title": "MTG/2025年度/2025-05-30",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n発表者：高永\r\n資料\r\n\r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/99",
+            "title": "MTG/2025年度/2025-05-22",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/88",
+            "title": "MTG/2024年度/2025-03-28",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n教科書\r\n統計学（松原望，東京図書）\r\n入門編 生産システム工学 第4版（人見勝人，共立出版）\r\n数理計画入門（福島雅夫，システム制御情報学会）\r\n電子データ閲覧は【】\r\nマルチエージェント学習ー相互作用の謎に迫るー（高玉圭樹，コロナ社）\r\n<img width=\"130\" alt=\"PXL20240402011805411.jpg (2.4 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/894d4d5d-0a01-4b3f-9409-4b3a9db08a25.jpg\">\r\n<img width=\"130\" alt=\"PXL20240402011741484.jpg (5.3 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/725fff2c-890e-44fd-93ed-19f969f2de8a.jpg\">",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/90",
+            "title": "輪講/2025年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n<img width=\"130\" alt=\"PXL20240402011754249.jpg (3.1 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/2834048c-5588-4748-9e9d-98a88dc9907c.jpg\">\r\n<img width=\"130\" alt=\"IMG2673.jpeg (346.3 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2025/04/15/165906/70fd868d-b186-4991-9da1-03193a247453.jpeg\">\r\n\r\n\r\n日程\r\n<img width=\"455.5\" alt=\"0F374BF6-EC85-4474-A310-9BCF02FB6A821201a.jpeg (206.5 kB)\" src=\"https://files.esa.io/uploads/production/attachm",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/90",
+            "title": "輪講/2025年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ents/21001/2025/05/22/165906/71e50997-d9a3-43c5-a35d-36a10e2777d5.jpeg\">\r\n\r\n\r\n\r\n\r\n資料\r\n統計\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n生産\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n数理計画\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nマルチエージェントシステム\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nLatexテンプレート\r\n利用Webサイト：\r\n\r\n1.  新規プロジェクトを作成後，以下のファイルを同じディレクトリにアップロード．\r\n (.txtは消してください)\r\n (4/11修正)\r\n\r\n\r\n2. 左上のメニューからコンパイラをLatexに変更．\r\n\r\n3. main.texを編集（latexmkrcは編集しなくて良い）",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/90",
+            "title": "輪講/2025年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from:",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/100",
+            "title": "過去の論文/配属初期資料2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n連絡事項\r\n研究室体験のアイデアを次回のミーティングで聞くので考えておいてください",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/98",
+            "title": "MTG/2025年度/2025-05-14",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：M2,M1の進捗確認\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/96",
+            "title": "MTG/2025年度/2025-05-09",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：高永\r\n資料\r\n\r\n\r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/95",
+            "title": "MTG/2025年度/2025-05-01",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田\r\n資料\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/94",
+            "title": "MTG/2025年度/2025-04-22",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "濱田飛成, 藤井信忠, 渡邉るりこ, 渡邉俊介, 宋剛秀, 中山浩平, 三嶋優司,\r\nand 吉永和生,\r\n“中食産業における作業時間の不確実性を考慮した生産スケジューリング手法に関する研究.”\r\nYamaguchi, Japan, Mar. 04, 2025.\\[hamada2025Mecha\\]\r\n\r\n\r\n舟橋慧人, 藤井信忠, 宋剛秀, 渡邉俊介, 渡邉るりこ, 濱野智明, and\r\n瀬古佳彰,\r\n“大規模チェーン工場を対象としたデータ分析と生産スケジューリング手法に関する研究.”\r\nYamaguchi, Japan, Mar. 04, 2025.\\[funahashi2025Mecha\\]\r\n\r\n\r\n道下朝陽, 藤井信忠, 渡邉俊介, 宋剛秀, and 田中真一,\r\n“組合せオークションを用いた駐車場利用者の回遊性向上手法に関する研究―駐車場利用者の行動変容に関する一検討―.”\r\nサービス学会, Osaka, Japan, pp. 110–114, Mar. 04,\r\n2025.\\[michishitaService2025\\]\r\n\r\n\r\nR. Yamaguchi, N. Fu",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/39",
+            "title": "過去の論文/発表論文 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "jii, S. Watanabe, T. Soh, R. Watanabe, and Y. Sunami,\r\n“Detection of wood cross-section regions with GrowCut for measurement of\r\nwood diameter grade.” IEEE, Murdoch University, Perth, Australia, Dec.\r\n18, 2024.\\[yamaguchiICoste2024\\]\r\n\r\n\r\n渡邉俊介, 藤井信忠, 山川義徳, and 冨田克彦,\r\n“ウェアラブルデバイスを用いた脳の健康指標 BHQ 推定手法に関する一検討.”\r\n富山, pp. 293–296, Nov. 13, 2024.\\[watanabeSSI2024\\]\r\n\r\n\r\n山下貴大, 藤井信忠, 渡邉俊介, 宋剛秀, 渡邉るりこ, and 関口兼司,\r\n“客観的臨床能力試験における映像情報を用いた模擬患者エージェント構築に関する一検討.”\r\n計測自動制御学会, 富山, pp. 100–102, Nov. 13, 2024.\\[yamash",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/39",
+            "title": "過去の論文/発表論文 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "itaSSI2024\\]\r\n\r\n\r\n山口凌央, 藤井信忠, 渡邉俊介, 宋剛秀, and 角南康弘,\r\n“林業における機械学習による単木検出漏れ補正手法に関する研究.” 富山, pp.\r\n41–43, Nov. 13, 2024.\\[yamaguchiSSI2024\\]\r\n\r\n\r\n道下朝陽, 藤井信忠, 渡邉俊介, 宋剛秀, and 田中真一,\r\n“組合せオークションを用いた都市における来街者の回遊性向上手法に関する研究 -\r\n来街者効用の考慮 -.” 計測自動制御学会, 富山, pp. 312–315, Nov. 13,\r\n2024.\\[michishitaSSI2024\\]\r\n\r\n\r\n橋本拓実, 藤井信忠, 宋剛秀, 渡邉俊介, and 新津瞬,\r\n“都市空間における映像情報を用いた人流解析手法に関する一提案.” 富山, pp.\r\n27–30, Nov. 13, 2024.\\[hashimotoSSI2024\\]\r\n\r\n\r\nH. Hamada, N. Fujii, S. Watanabe, T. Soh, R. Watanabe, K. Nakayama, Y.\r\nMishima,",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/39",
+            "title": "過去の論文/発表論文 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": " and K. Yoshinaga, “A study on production scheduling methods for\r\nready-made meal industries.” Springer Nature Switzerland AG, pp.\r\n266–277, Sep. 11, 2024. doi:\r\n.\\[hinariAPMS2024\\]\r\n\r\n\r\n髙永潤, 藤井信忠, 渡邉俊介, 宋剛秀, 谷崎隆士, 木村溶徹, and 木村樹美,\r\n“トラック輸送計画問題に対する整数計画法を用いた一解法.” 精密工学会,\r\n岡山, Aug. 22, 2024.\\[takanagaSeimitsu2024\\]\r\n\r\n\r\n池岡凜空, 藤井信忠, 渡邉俊介, 宋剛秀, and 新村猛,\r\n“レンタル業における多拠点間の資源配分手法に関する一検討.” 精密工学会,\r\n岡山, Aug. 22, 2024.\\[ikeokaSeimitsu2024\\]\r\n\r\n\r\nA. Michishita, N. Fujii, S. Watanabe, R. Watanabe, and S. Tanaka",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/39",
+            "title": "過去の論文/発表論文 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": ", “A\r\nstudy on methods of improving visitor migration in urban areas using\r\ncombinatorial auction.” Elsevier, Gulf of Naples, Italy, Jul. 10,\r\n2024.\\[michishitaCIRPICME2024\\]\r\n\r\n\r\n道下朝陽, 藤井信忠, 渡邉俊介, 宋剛秀, 國領大介, 貝原俊也, 渡邉るりこ,\r\nand 田中真一,\r\n“組合せオークションを用いた来街者の回遊性向上に関する研究.”\r\nシステム制御情報学会 (ISCIE); ISCIE, 大阪, pp. 293–294, May 24,\r\n2024.\\[michishitaSCI2024\\]\r\n\r\n\r\n山口凌央, 藤井信忠, 渡邉俊介, 宋剛秀, 國領大介, 貝原俊也, 渡邉るりこ,\r\nand 角南泰弘,\r\n“複数木口画像を対象とした画像処理による木材計測手法に関する研究.”\r\nシステム制御情報学会 (ISCIE); ISCIE, 大阪, pp. 1149–1151, May 24,\r\n202",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/39",
+            "title": "過去の論文/発表論文 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "4.\\[yamaguchiSCI2024\\]\r\n\r\n\r\n\r\nbib ファイル:",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/39",
+            "title": "過去の論文/発表論文 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "「発表論文20XX」のページは，\r\n無駄に複雑な手順で更新しています．\r\n\r\nweb更新との依存を外した方法\r\npandoc と python が必要です（）．\r\n加えて下記 zip を使用します（ダウンロード＆展開してください）．\r\n\r\n\r\n1. 発表者に原稿の pdf をもらう（出版後のページ数が付いたものが望ましい）．\r\n1. ChatGPT などを使用？して，bibtex 形式にしてもらい，雛形とする．\r\n1. input.bib を作成または修正する．書式は過去のものを参考にする（下記の注意点も参照のこと）．\r\n1. もし発表論文20XX のページがまだなければ，ページを作成する\r\n1. 論文 pdf を bib ファイルの文献タグと同名にして 発表論文ページ にアップロード\r\n1. 発表論文ページ のマークダウンをコピペし，current.md とする\r\n1. python bib2wiki.py input.bib current.md output.md\r\n1. 出力された output.md を 発表論文ページ にコピペ\r\n1. input.bib を 発表論文ページ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/10",
+            "title": "過去の論文/業績更新手順",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": " にアップロード（末尾にドラッグアンドドロップすると良い）\r\n\r\ninput.bib をきちんと入力していれば，将来的に web ページにそのままインポートできる見込みです．\r\n\r\ninput.bib の編集の注意点\r\n wiki上で見たときに名前のみになっちゃうバグがあるため，日本語の姓と名はスペースを抜いてください．\r\n 過去の input.bib は web ページ（wordpress）のプラグイン TeachPress によって出力されたもので，\r\nweb ページ抜きで管理していくには不要なタグが含まれています．\r\nということで keywords，tp pubtype，urldate は入力しなくて構いません．\r\nkeywords は web ページへのインポート後に付けます（F班とS班の区別とか，査読有無の表示に使用）．\r\n\r\n~少し自動化を進ませた方法~\r\npandoc と python が必要です．\r\n下記 zip を使用します（ダウンロード＆展開してください）．\r\n\r\n\r\n1.  webページの管理ページから 20XX年度の bib ファイルを出力し，input.bib",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/10",
+            "title": "過去の論文/業績更新手順",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": " とする\r\n1. もし発表論文20XX のページがまだなければ，ページを作成する\r\n1. 論文 pdf を bib ファイルの文献タグと同名にして 発表論文ページ にアップロード\r\n1. 発表論文ページ の md をコピペし，current.md とする\r\n1. python bib2wiki.py input.bib current.md output.md\r\n1. 出力された output.md を 発表論文ページ にコピペ\r\n1. input.bib を 発表論文ページ にアップロード（末尾にドラッグアンドドロップすると良い）\r\n\r\n\r\n~古い方法~\r\npandoc が必要です．\r\n\r\n1.  webページの管理ページから bib ファイルを出力し，input.bib とする\r\n1. 同フォルダに base.md と ieeewiki.csl を準備\r\n1.  pandoc -t markdownstrict --citeproc base.md -o output.md --csl ieeewiki.csl\r\n1. 出力された output.md を wiki にコピペ\r\n1.",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/10",
+            "title": "過去の論文/業績更新手順",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": " 論文 pdf を各業績の末尾の pdf 名にリネーム\r\n1. pdf をドラッグ＆ドロップで添付\r\n1. 業績の末尾の pdf 名を削除",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/10",
+            "title": "過去の論文/業績更新手順",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：藤井先生\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/93",
+            "title": "MTG/2025年度/2025-04-17",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "⚠️ 前提条件\r\nコピー元とコピー先のPCが同じローカルネットワーク（LAN）に接続されている必要があります。\r\n操作には、両方のPCに対する管理者権限が必要になる場合があります。\r\n\r\n---\r\n\r\n✅ 1. コピー先PCで共有フォルダを作成\r\n\r\n📍 操作するのはコピー先（受け取る側）のPC\r\n\r\n1. 任意のフォルダを右クリック →「プロパティ」\r\n2. 「共有」タブ →「共有(S)...」\r\n3. 「Everyone」を追加して、アクセス許可を「読み取り/書き込み」に設定\r\n4. 「共有」→「完了」\r\n5. フォルダのネットワークパス（例：\\\\192.168.1.10\\shared）を控える\r\n💡 IPアドレスの確認方法:\r\nコマンドプロンプトを開き ipconfig と入力してEnterキーを押します。\r\n「IPv4 アドレス」の項目に表示される 192.168.x.x のような形式のものが、そのPCのIPアドレスです。\r\n🔒 ファイアウォールとネットワークプロファイルの注意:\r\nWindows Defender ファイアウォールなどで「ファイルとプリンターの共有」が許可され",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ている必要があります。\r\nネットワークプロファイルが「プライベート」になっていることを確認してください。「パブリック」では共有が制限されることがあります。\r\n\r\n     🔧 「ファイルとプリンターの共有」を有効にする手順 (Windows 10/11):\r\n\r\n     1.  設定を開く: Win + I キーを押すか、スタートメニューから「設定」を開きます。\r\n     2.  ネットワークとインターネット: を選択します。\r\n     3.  ネットワークの詳細設定 または 共有オプション (バージョンにより異なる場合があります) をクリックします。\r\n     4.  現在のプロファイル (プライベート推奨) を展開:\r\n「ネットワーク探索」を オン にします。\r\n「ファイルとプリンターの共有」を オン にします。\r\n     5.  すべてのネットワークを展開\r\n「パスワード保護共有の設定」を オフ にします。\r\n     6.  ファイアウォールの確認 (必要な場合):\r\n設定の検索バーで「ファイアウォール」と入力し、「Windows Defender ファイアウォールに",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "よるアプリの許可」を選択します。\r\n「設定の変更」をクリック (管理者権限が必要)。\r\nリストから「ファイルとプリンターの共有」を見つけ、「プライベート」のチェックボックスがオンになっていることを確認します。\r\n\r\n---\r\n\r\n✅ 2. コピー元PCから共有フォルダにアクセスできるか確認\r\n\r\n📍 操作するのはコピー元（送信する側）のPC\r\n\r\n1. Win + R を押して ファイル名を指定して実行 を開く\r\n2. 次のように入力（控えたネットワークパスに置き換えてください）：\r\n\r\n   \r\n   \\\\192.168.1.10\\shared\r\n   \r\n\r\n3. Enter でアクセスできるか確認  \r\n   → ユーザー名とパスワードを求められたら、共有先PCのアカウント情報を入力\r\n\r\n---\r\n\r\n✅ 3. robocopy を使ってフォルダをコピー\r\n\r\n📍 コピー元PCの「管理者として実行したコマンドプロンプト」で実行\r\n\r\ncmd\r\nrobocopy \"C:\\コピー元のパス\" \"\\\\192.168.1.10\\shared\\コピー先のフォルダ名\" /E /COPY:DA",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "T /R:3 /W:5 /LOG:robocopy.log /TEE\r\n\r\n\r\n重要:\r\nパスに空白が含まれる場合: 必ずパス全体をダブルクォーテーション (\") で囲んでください。\r\nコピー先のフォルダ名: 共有フォルダ直下ではなく、その中に新しいフォルダを作成してコピー先とすることを推奨します（例: \\\\192.168.1.10\\shared\\backupdata）。\r\n管理者として実行する理由: システムフォルダや他のユーザーのフォルダなど、アクセス許可が必要なファイルをコピーする場合に権限エラーを防ぐためです。\r\n\r\n🔧 オプション説明\r\n\r\n| オプション | 意味 |\r\n|------------|------|\r\n| /E | サブフォルダすべてをコピー（空のフォルダも） |\r\n| /COPY:DAT | データ(D)・属性(A)・タイムスタンプ(T)のみコピー（セキュリティ(S)情報は除外）。アクセス権エラーを回避しやすい。 |\r\n| /R:3 | コピー失敗時のリトライ回数（3回） |\r\n| /W:5 | リトライの待機時間（5秒） |\r\n| /LOG:robocop",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "y.log | ログをファイルに出力して後から確認可能（実行フォルダに作成されます） |\r\n| /TEE | コンソールにもログを出力（進捗が見える） |\r\n\r\n---\r\n\r\n✅ 4. robocopy の進捗状況を確認する方法\r\n\r\nリアルタイムで確認する方法\r\n/TEE オプションをつけてコマンドを実行することで、コンソールにもログが出力されます。\r\nコピー中にファイル名やスキップされたファイル、進捗（%）が表示されます。\r\n\r\n実行後に確認する方法\r\n/LOG:robocopy.log で指定したログファイルをメモ帳などのテキストエディタで開きます。\r\nファイルの末尾にある概要（Summary）で、コピーされたファイル数、スキップされたファイル数、エラーが発生したファイル数などを確認できます。\r\nエラー行や「ERROR」で検索することで、具体的なトラブル箇所を発見可能です。\r\n\r\n---\r\n\r\n✅ 5. よくあるエラーとその対処法\r\n\r\n| エラーメッセージ例 (抜粋) | 主な原因と対処法 |\r\n|-------------------------|--------------",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "---|\r\n| エラー 5 (0x00000005) コピー先ファイルにアクセスしています アクセスが拒否されました。 | 1. 管理者権限不足: コマンドプロンプトを「管理者として実行」していない。<br> 2. 共有アクセス権不足: コピー先共有フォルダのアクセス許可（読み取り/書き込み）が正しく設定されていない。 |\r\n| エラー 53 (0x00000035) コピー先ディレクトリを作成しています \\\\<IP>\\shared\\ ネットワーク パスが見つかりません。 | 1. IPアドレス/共有名の誤り: IPアドレスや共有フォルダ名が間違っている。<br> 2. コピー先PCオフライン: コピー先PCの電源が入っていない、スリープ状態、ネットワークに接続されていない。<br> 3. ファイアウォール: コピー先PCのファイアウォールで「ファイルとプリンターの共有」がブロックされている。<br> 確認: コピー元PCから ping <コピー先IPアドレス> を実行して応答があるか確認する。 |\r\n| エラー 1326 (0x0000052E) ユーザー ログオン \\\\<IP>\\s",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "hared\\ ログオン失敗: 不明なユーザー名またはパスワードが間違っています。 | 1. ユーザー情報誤り: 入力したユーザー名またはパスワードが間違っている。コピー先PCのアカウント情報を正確に入力する。<br> 2. 資格情報キャッシュ: 以前接続した際の古い資格情報が残っている場合がある。Windows資格情報マネージャーを確認/削除してみる。 |\r\n| エラー 1314 (0x00000522) ファイル属性の変更 \\\\?\\C:\\... 要求された特権をクライアントは保有していません。 | /COPYALL や /SEC オプションを使用している場合に発生しやすい。/COPY:DAT を使用することで回避できることが多い。コピー先のファイルシステム（NTFS/FAT32など）の違いも影響する場合がある。 |\r\n| フォルダ構成だけコピーされて中身が空 | /E オプションを付け忘れているか、/COPY:DAT などのコピー対象を指定するオプションを付け忘れている可能性がある。オプションを確認する。 |\r\n| ERROR 32 (0x00000020) Copying File",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": " ... プロセスはファイルにアクセスできません。別のプロセスが使用中です。 | コピーしようとしているファイルが、コピー元またはコピー先で他のプログラムによって開かれている。ファイルを閉じてから再試行する。 |\r\n\r\n---\r\n\r\n✅ 6. その他補足情報\r\ncmd は必ず「管理者として実行」してください。特にCドライブ直下や Program Files などの保護された領域を扱う場合に必須です。\r\nファイル属性が原因でコピーできないときは、以下で属性解除できます：\r\n\r\ncmd\r\nattrib -R -H -S \"C:\\コピー元のパス\" /S /D\r\nファイルが開かれているとコピーされないこともあります。使用中でないことを確認してください\r\n\r\n---\r\n\r\n✅ 7. コピー完了後に確認すること\r\n共有先のフォルダを開いて、ファイルがきちんとコピーされているか確認\r\nrobocopy.log を確認して、エラーがないかチェック\r\n\r\n---",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/92",
+            "title": "TIPS/💻 LAN内の別PCへ robocopy でフォルダをコピーする手順",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "教科書\r\n入門編 生産システム工学 第4版（人見勝人，共立出版）\r\n数理計画入門（福島雅夫，システム制御情報学会）\r\n電子データ閲覧は【】\r\n統計学（松原望，東京図書）\r\n<img width=\"150\" alt=\"PXL20240402011741484.jpg (5.3 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/725fff2c-890e-44fd-93ed-19f969f2de8a.jpg\"><img width=\"150\" alt=\"PXL20240402011754249.jpg (3.1 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/2834048c-5588-4748-9e9d-98a88dc9907c.jpg\"><img width=\"150\" alt=\"PXL20240402011805411.jpg (2.4 MB",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/14",
+            "title": "輪講/2024年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": ")\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/894d4d5d-0a01-4b3f-9409-4b3a9db08a25.jpg\">\r\n\r\n日程\r\n月3限〜と火3限〜の週2回\r\n<img width=\"376\" alt=\"輪講日程表.jpg (60.4 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/06/162419/68923f24-5463-40e2-9c26-3d074bfdeb86.jpg\">\r\n\r\n\r\n\r\n\r\n資料\r\n統計\r\n\r\n生産\r\n\r\n数理計画\r\n\r\nLatexテンプレート\r\n利用Webサイト：\r\n\r\n1.  新規プロジェクトを作成後，以下のファイルを同じディレクトリにアップロード．\r\n (.txtは消してください)\r\n (4/11修正)\r\n\r\n\r\n2. 左上のメニューからコンパイラをLatexに変更．\r\n\r\n3. main.texを編集（late",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/14",
+            "title": "輪講/2024年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "xmkrcは編集しなくて良い）",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/14",
+            "title": "輪講/2024年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "教科書\r\n入門編 生産システム工学 第4版（人見勝人，共立出版）\r\n数理計画入門（福島雅夫，システム制御情報学会）\r\n統計学（松原望，東京図書）\r\n<img width=\"150\" alt=\"PXL20240402011741484.jpg (5.3 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/725fff2c-890e-44fd-93ed-19f969f2de8a.jpg\"><img width=\"150\" alt=\"PXL20240402011754249.jpg (3.1 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/2834048c-5588-4748-9e9d-98a88dc9907c.jpg\"><img width=\"150\" alt=\"PXL20240402011805411.jpg (2.4 MB)\" src=\"http",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/15",
+            "title": "輪講/2023年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "s://files.esa.io/uploads/production/attachments/21001/2024/04/02/162419/894d4d5d-0a01-4b3f-9409-4b3a9db08a25.jpg\">\r\n\r\n\r\n\r\n日程\r\n週二回\r\n月木3限〜\r\n二人ずつ発表\r\n4/17~5/29\r\n\r\n資料\r\n<details><summary>生産</summary>\r\n\r\n</details>\r\n\r\n<details><summary>数理</summary>\r\n\r\n</details>\r\n\r\n<details><summary>統計</summary>\r\n\r\n</details>",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/15",
+            "title": "輪講/2023年度",
+            "category": "輪講",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/91",
+            "title": "MTG/2025年度/2025-04-10",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "<details><summary>4月</summary>\r\n\r\n新B4顔合わせ\r\n日時：2024年4月2日(火) 10:40\r\n場所：システム棟 5階 S514セミナー室\r\n\r\n\r\nF班MTG\r\n日時：2024年4月3日(水) 10:30\r\n内容：発表（舟橋），新B4へのテーマ説明\r\n\r\n新M1ガイダンス\r\n日時：2024年4月3日(水) 14:00\r\n場所：C3-302\r\n参考： \r\n\r\nB4個人面談\r\n日時：2024年4月8日(月)\r\n集合：3W-202，12:30\r\n\r\nF班MTG\r\n日時：2024年4月11日(木) 13:20\r\n内容：藤井先生のお話\r\n\r\nF班MTG\r\n日時：2024年4月17日(水) 10:00\r\n内容：発表（伊藤，濱田飛）\r\n\r\n新歓\r\n日時：2024年4月23日(火) 19:00\r\n店名：洋風酒場KYU-KANBI 2号店@六甲店\r\n場所：神戸市灘区山田町3丁目2-25\r\n詳細：https://www.instagram.com/kyukanbirokko/\r\n           https://tabelog.com/hyogo/A2801/A2",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "80108/28057455/\r\n\r\nF班MTG\r\n日時：2024年4月26日(金) 13:00\r\n内容：発表（山下，橋本）\r\n\r\n</details>\r\n\r\n<details><summary>5月</summary>\r\n\r\nF班MTG\r\n日時：2024年5月2日(木) 13:20\r\n内容：発表（髙永，道下）\r\n\r\nF班MTG\r\n日時：2024年5月9日(木) 13:00\r\n内容：発表（舟橋，濱田飛）\r\n\r\n藤井先生誕生日\r\n日時：2024年5月14日(火) \r\n\r\nF班MTG\r\n日時：2024年5月14日(木) 10:30\r\n内容：発表（舟橋，髙永）\r\n\r\n姫路計測バイト\r\n日時：2024年5月17日(金)-19日(日)\r\n17日(金)：橋本，舟橋，伊藤，池岡，髙永，山下，濱田(B4)，吉田，坂本　　　　　　9人\r\n 18日(土)：橋本，舟橋，伊藤，髙永，山下，道下，早田，上野，山口(M1)　 　　　　 9人\r\n19日(日)：橋本，池岡，髙永，山下，濱田(B4)，吉田，山口(D1)，佐々木，山口(M1)     9人\r\nmemo\r\n山口(M1)：出来れば午後\r\n\r\nF班MTG\r\n日",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "時：2024年5月21日(火) 10:40\r\n内容：学会発表練習（道下，山口）\r\n\r\n2024年度 初年次セミナー研究室見学 実施要領\r\n日時：5月23日(木) 3限\r\nスケジュール：\r\n　　13:20−13:40　課題説明，授業振り返りアンケート実施\r\n　　13:40−13:50　研究室に移動\r\n　　13:50−14:50　研究テーマ紹介，教員・大学院生との対話\r\n　　14:50　      解散\r\n備考：\r\n　(1) 訪問する学生は研究室あたり高々12名です．それを想定して\r\n　    ご準備下さい．\r\n　(2) 教室（5W-301）から研究室までは，グループごとに学生らが\r\n　    自ら移動します．\r\n　(3) 学生の研究室滞在は1時間を目安とし，現地解散として下さい．\r\n　(4) 研究室見学に積極的に取り組ませるため，教員あるいは学生\r\n　    にインタビューし，研究室の紹介を記事にするというレポート\r\n　    課題を与える予定です．\r\n\r\nF班MTG\r\n日時：2024年5月28日(火) 10:00\r\n内容：発表（舟橋、山下）\r\n\r\n</details>\r\n\r\n<deta",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ils><summary>6月</summary>\r\n\r\nF班MTG\r\n日時：2024年6月4日(火) 10:00\r\n内容：発表（伊藤、髙永）\r\n\r\n修士前発表\r\n日時：2024年6月10日(月) 3限\r\n発表者：佐々木\r\n\r\n修士前発表\r\n日時：2024年6月11日(火) 3限\r\n発表者：早田\r\n\r\nF班MTG\r\n日時：2024年6月12日(水) 13:30\r\n内容：発表（池岡、濱田飛）\r\n\r\n片野さん誕生日\r\n日時：2024年6月14日(金)\r\n\r\n修士前発表\r\n日時：2024年6月17日(月) 3限\r\n発表者：松本\r\n\r\n修士前発表\r\n日時：2024年6月18日(火) 3限\r\n発表者：濱田真\r\n\r\nF班MTG\r\n日時：2024年6月19日(水) 13:00\r\n内容：B4発表1（佐々木、早田）\r\n\r\nF班MTG\r\n日時：2024年6月27日(水) 9:30\r\n内容：B4発表2（松本、濱田真）\r\n\r\n</details>\r\n\r\n<details><summary>7月</summary>\r\n\r\nF班飲み会\r\n日時：2024年7月2日(火)\r\n\r\nF班MTG\r\n日時：2024年7月4日",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "(木) 13:20\r\n内容：発表練習（道下）、発表（橋本）\r\n\r\n写真撮影\r\n日時：2024年7月8日(月) 12:30\r\n\r\nF班MTG\r\n日時：2024年7月18日(木) 13:20\r\n内容：イタリア学会感想（道下）、発表（山下、舟橋）\r\n\r\n</details>\r\n\r\n<details><summary>8月</summary>\r\n\r\nF班MTG\r\n日時：2024年8月1日(木) 15:10\r\n内容：発表（伊藤）\r\n\r\n\r\nF班MTG\r\n日時：2024年8月7日(水) 12:30\r\n内容：発表（池岡）\r\n\r\nF班MTG\r\n日時：2024年8月22日(水) 9:30\r\n内容：発表（道下）\r\n\r\nF班MTG\r\n日時：2024年8月26日(水) 13:00\r\n内容：発表（池岡、髙永）\r\n\r\n</details>\r\n\r\n<details><summary>9月</summary>\r\n\r\nF班MTG\r\n日時：2024年9月3日(火) 14:00\r\n内容：発表練習（濱田飛）、発表（橋本）\r\n\r\nF班MTG\r\n日時：2024年9月17日(火) 16:00\r\n内容：発表（山下）\r\n\r\nF班MTG",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n日時：2024年9月26日(火) 10:00\r\n内容：発表（舟橋、佐々木）\r\n\r\n</details>\r\n\r\n<details><summary>10月</summary>\r\n\r\nF班MTG\r\n日時：2024年10月2日(水) 14:00\r\n内容：発表（松本、早田）\r\n\r\nF班MTG\r\n日時：2024年10月9日(水) 14:00\r\n内容：発表（濱田真）\r\n\r\nF班MTG\r\n日時：2024年10月16日(水) 14:00\r\n内容：発表（髙永）、海塾説明\r\n\r\nF班MTG\r\n日時：2024年10月23日(水) 13:00\r\n内容：発表（道下，佐々木）\r\n\r\nF班MTG\r\n日時：2024年10月31日(水) 13:00\r\n内容：発表（山下，池岡）\r\n\r\n</details>\r\n\r\n<details><summary>11月</summary>\r\n\r\nF班MTG\r\n日時：2024年11月6日(水) 15:00\r\n内容：発表（濱田飛，松本）\r\n\r\nF班MTG\r\n日時：2024年11月12日(火) 14:00\r\n内容：発表（ほぼ全員）\r\n\r\nF班MTG\r\n日時：2024年11月19日(火) ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "14:00\r\n内容：発表（道下，舟橋）\r\n\r\nF班MTG\r\n日時：2024年11月28日(木) 14:00\r\n内容：発表（池岡，濱田真）\r\n\r\n</details>\r\n\r\n<details><summary>12月</summary>\r\n\r\nF班MTG\r\n日時：2024年12月3日(火) 13:00\r\n内容：発表（松本，舟橋）\r\n\r\nF班MTG\r\n日時：2024年12月10日(火) 10:00〜13:40\r\n内容：発表（舟橋、早田、山下）\r\n\r\nF班MTG\r\n日時：2024年12月17日(火) 13:20\r\n内容：発表（舟橋，髙永，佐々木）\r\n\r\nF班MTG\r\n日時：2024年12月26日(木) 9:00〜12:00、13:00〜16:00\r\n内容：発表（午前M2、午後B4）\r\n\r\n</details>\r\n\r\n<details><summary>1月</summary>\r\n\r\nF班MTG\r\n日時：2024年1月8日(水) 13:00\r\n内容：発表（濱田飛、舟橋）\r\n\r\nF班MTG\r\n日時：2024年1月15日(水) 13:00\r\n内容：発表（道下、松本）\r\n\r\nF班MTG\r\n日時：20",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "24年1月23日(木) 13:00\r\n内容：発表（佐々木、濱田真、早田）\r\n\r\nF班MTG\r\n日時：2024年1月29日(水) 10:40\r\n内容：発表（松本、濱田真）\r\n\r\n</details>\r\n\r\n<details><summary>2月</summary>\r\n\r\nF班MTG\r\n日時：2024年2月6日(木) 13:00\r\n内容：発表（濱田真、早田）\r\n\r\nF班MTG\r\n日時：2024年2月14日(木) 10:00\r\n内容：B4発表練習（学生のみ）\r\n\r\nF班MTG\r\n日時：2024年2月17日(月) 15:00\r\n内容：B4発表練習\r\n\r\nF班MTG\r\n日時：2024年2月26日(水) 13:30\r\n内容：発表（山下）\r\n\r\n</details>\r\n\r\n<details><summary>3月</summary>\r\n\r\nF班MTG\r\n日時：2024年3月7日(金) 13:00\r\n内容：発表練習（髙永）\r\n\r\nオープンラボ1回目\r\n日時：2024年3月13日(木) 13:00-17:30\r\n内容：1時間と30分の休憩\r\n\r\nF班MTG\r\n日時：2024年3月14日(金) 14:0",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "0\r\n内容：発表（池岡）\r\n\r\nオープンラボ2回目\r\n日時：2024年3月18日(木) 13:00-15:30\r\n内容：1時間と30分の休憩\r\n\r\nF班MTG\r\n日時：2024年3月21日(金) 14:00\r\n内容：発表（橋本）\r\n\r\n追いコン\r\n日時：2024年3月21日(金) 19:00-22:00(3時間食べ飲み放題）\r\n場所：個室空間×食べ放題　創作ダイニング　うたげ　三宮\r\nサイト：https://www.hotpepper.jp/strJ001049911/\r\n\r\n講座旅行\r\n日時：2024年3月23日(日) -2024年3月24日(月)\r\n場所：アマテラス\r\n金額：12,400円（1泊2食付き）\r\nアクティビティ：カラオケ，卓球，麻雀，焚き火，サウナなど\r\nサイト：https://a-terrasse.net/\r\n\r\nF班MTG\r\n日時：2024年3月28日(金) 15:10\r\n内容：発表（早田）\r\n\r\n</details>",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/19",
+            "title": "スケジュール/2024年度",
+            "category": "スケジュール",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/89",
+            "title": "MTG/2025年度/2025-04-01",
+            "category": "MTG/2025年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "修論\r\n論文\r\n\r\n\r\n\r\n発表資料\r\n\r\n\r\n\r\n卒論\r\n論文\r\n\r\n\r\n\r\n\r\n\r\n\r\n発表資料",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/81",
+            "title": "過去の論文/修論・卒論 2024",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "wiki 係とは\r\n研究室内に隠れているノウハウや紛失しがちな情報をまとめ，歴史を作り，\r\nn年後の研究室をパワーアップします．その手段のひとつとして，wikiを使います．\r\n（以下は研究員の渡邉俊介がやっていたことをまとめています．今後状況に合わせて変えていってください）\r\nルーチンワーク\r\nメンバー管理\r\n新規メンバーに招待URLをTeamsに貼るなどして，各自のgmailアドレスで登録してもらう\r\n（学番メアドは入院したあとに変わるので注意）．\r\n招待URL は一年に一度は新しくするか，春のみ一時的に有効にするようにしたほうが良い．\r\n卒業したメンバーは削除する．\r\nトップページ更新\r\n係情報や座席情報を更新．\r\nサーバー情報はサーバー係に書いてもらう．\r\n年1の契約更新\r\n1月にesaの更新時期が来るので，トップページの方法で契約する．\r\n学外向け業績まとめ（どこまで学生がやるべきかは要検討）\r\n研究室が学外に発表した成果をすべてまとめます．\r\n年末付近の事務処理で，先生が研究室の業績を報告するときにここの情報を使います．\r\n1. 誰かが学会発表したことを何らかの方法でキャッチ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/83",
+            "title": "係情報/wiki 係",
+            "category": "係情報",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n1. 発表したpdfを発表者からもらってからbibtexを作成（AIを使ったりする）\r\n1. 業績ページを更新  （）\r\n1. （webページにも登録）",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/83",
+            "title": "係情報/wiki 係",
+            "category": "係情報",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/86",
+            "title": "MTG/2024年度/2025-03-21",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/85",
+            "title": "MTG/2024年度/2025-03-14",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "H. Hamada, N. Fujii, S. Watanabe, T. Soh, R. Watanabe, K. Nakayama, Y.\r\nMishima, and K. Yoshinaga, “A study on production scheduling methods for\r\nready-made meal industries.” Springer Nature Switzerland AG, pp.\r\n266–277, Sep. 11, 2024. doi:\r\nスライド\r\n原稿ワード\r\n\r\n\r\n飛成, 信忠, るりこ, 俊介, 剛秀, 浩平, 優司, and 和生,\r\n“中食産業における作業時間の不確実性を考慮した生産スケジューリング手法に関する研究.”\r\nYamaguchi, Japan, Mar. 04, 2025\r\nスライド",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/84",
+            "title": "過去の論文/発表論文 2024（スライドなど）",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：髙永（発表練習）\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/82",
+            "title": "MTG/2024年度/2025-03-07",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/80",
+            "title": "MTG/2024年度/2025-02-26",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/79",
+            "title": "MTG/2024年度/2025-02-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/78",
+            "title": "MTG/2024年度/2025-02-14",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/77",
+            "title": "MTG/2024年度/2025-02-06",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/76",
+            "title": "MTG/2024年度/2025-01-29",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/75",
+            "title": "MTG/2024年度/2025-01-23",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "リモートのやり方は→  にて．\r\n| 番号 | コンピューター名 | モデル名 | プロセッサ | 実装RAM | GPU | OS | C ドライブ | ローカルディスク 1 | ローカルディスク 2 | 主な使用者 | 場所 |リモート可否\r\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\r\n| 1 | Orfevre | Z9-Z690 | 12th Gen Intel® Core™ i9-12900(24 CPUs) 2.4GHz | 128 GB | NVIDIA GeForce RTX 3070 |  | 1.86 TB | 1.81 TB | 1.86 TB | 濱田 | 配電盤サーバー席（右） | OK |\r\n| 2 | meishodoto | SYS-7039A-I | Intel® Xeon® Gold 6130 CPU @ 2.10GHz(64 CPUs), ~2.1GHz | 128 GB | NVIDIA Quadro RTX 5000 |  | ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/30",
+            "title": "サーバー関連/サーバー情報",
+            "category": "サーバー関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "475 GB | 931 GB | 2.72 TB | 濱田 | 配電盤サーバー席（左） | OK |\r\n| 3 | DeepImpact | Z9-Z690 | 12th Gen Intel® Core™ i9-12900(24 CPUs) 2.4GHz | 128 GB | NVIDIA Quadro RTX 5000 |  | 1.86 TB | 3.63 TB | 1.86 TB | 伊藤 | 伊藤座席 | OK |\r\n| 4 | SilenceSuzuka | ZA9C-R38T | 12th Gen Intel® Core™ i9-12900(24 CPUs) 2.4GHz | 32 GB | NVIDIA GeForce RTX 3080 Ti | Windows 11 Home | 930 GB |  |  | 橋本 | 橋本座席 | NG |\r\n| 5 | TitleHolder | Z590-S01 | 11th Gen Intel® Core™ i9-11900K @ 3.50GHz(16CPUs), ~3.5GHz | 64 GB | NVIDIA RTX A4",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/30",
+            "title": "サーバー関連/サーバー情報",
+            "category": "サーバー関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "000 |  | 951 GB | 1.81 TB |  | 池岡 | 配電盤サーバー席（中右） | OK |\r\n| 6 | BeAstonished | SYS-7039A-I | Intel® Xeon® Gold 6130 CPU @ 2.10GHz(64 CPUs), ~2.1GHz | 128 GB | NVIDIA GeForce RTX 2080 | Windows 10 | 475 GB | 931 GB | 2.72 TB | 山口 | ミーティング机横 | OK |\r\n| 7 | haruurara | T730-28ICO | 9th Gen Intel® Core™ i9-9900K | 32 GB | NVIDIA RTX 2080 Super |  | 952GB | 1.81TB |  | 山下 | 配電盤サーバー席（中左） | OK |\r\n| 8 | equinox | DAIV FX-I7G6T | Intel(R) Core(TM) i9-14900KF   3.20 GHz | 128GB | NVIDIA GeForce RTX 4090 | W",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/30",
+            "title": "サーバー関連/サーバー情報",
+            "category": "サーバー関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "indows 11 Pro | 1.86 TB |  |  | 濱田 | ミーティング机横 | OK |\r\n| 9 | ojuchosan | DAIV FX-I7G6T | Intel(R) Core(TM) i9-14900KF   3.20 GHz | 128GB | NVIDIA GeForce RTX 4090 | Windows 11 Pro | 1.86 TB |  |  | 髙永 | ミーティング机横 | OK |\r\nストレージ容量に注意\r\nmeishodoto とか，ストレージの容量を使いすぎて Windows が瀕死になってるときがあるので，残り容量に気をつけてください．\r\nCドライブ（Windows がインストールされているストレージ）が小さい場合，でかいファイルはCドライブ以外に置くのが吉．\r\n\r\nいつの間にかCドライブを使っている例：\r\n デスクトップにでかいファイルを置く\r\n anaconda で環境を作りまくる（参考に環境のフォルダを変えるのが有効）",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/30",
+            "title": "サーバー関連/サーバー情報",
+            "category": "サーバー関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/74",
+            "title": "MTG/2024年度/2025-01-15",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/73",
+            "title": "MTG/2024年度/2025-01-08",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/72",
+            "title": "MTG/2024年度/2024-12-26",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：髙永\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/71",
+            "title": "MTG/2024年度/2024-12-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "卒論\r\n<details><summary>論文</summary>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</details>\r\n\r\n<details><summary>発表資料</summary>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</details>\r\n\r\n<details><summary>Overleaf</summary>\r\n\r\n\r\n\r\n\r\n</details>\r\n\r\n修論",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/7",
+            "title": "過去の論文/修論・卒論 2023",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "予稿原稿\r\n橋本：\r\n髙永：\r\n池岡：\r\n山下：\r\n\r\nポスター\r\n\r\n橋本：\r\n髙永：\r\n池岡：\r\n山下：\r\n\r\n\r\n\r\n説明WEBサイト\r\n2024年度後期 研究経過発表会サイト\r\n\r\nこのページは，神戸大学大学院システム情報学研究科　博士課程前期課程　2024年度後期研究経過発表会について，情報・資料提出用サイトです．\r\n\r\n情報は随時追加されるので，適宜確認するようにしてください．\r\n\r\n研究経過発表会　概要\r\n  日時：2024年12月2日（月）　1~3限\r\n  場所：六甲ホール　及び　ホワイエ\r\n  発表方法：予稿原稿（1ページ），ショートプレゼン動画（30秒以内の動画），ポスター（A0サイズ，1枚）（全て必須）\r\n  各種期限（〆切は厳守のこと）：\r\n  発表題目：11月 18日（月）　指導教員と相談の上，決定すること（済）\r\n  予稿原稿提出：11月 25日（月）　12時\r\n  ショートプレゼン動画ファイル提出：11月27日（水）12時\r\n  当日の発表プログラム：（確定版）を掲載\r\n  （パスワードはメールにて配布，CSImkeika20241202）\r\n  当日の\r",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\n  \r\n\r\n予稿原稿について\r\n\r\nテンプレートの中に記載しているフォーマットに従い，作成すること．文章構成の多少の変更は認めるが，フォーマットの大きな変更や構成の大きな変更が確認できた場合は再提出を求める場合がある．\r\n\r\nテンプレート：\r\n\r\n・英語Abstractは四角で書いた説明を削除した上で，本文に直接記載してください．\r\n\r\n提出先：次のURLからPDF形式（10MB以内）にて提出のこと．\r\n\r\n予稿原稿・提出先フォーム\r\n\r\n  ショートプレゼンテーションについて\r\n\r\n様式：16:9形式で30秒以内にまとめること．作成方法は問わないが，提出時はMP4形式（100MB）にすること．\r\n\r\n提出先：次のURLからMP4形式（100MB以内）にて提出のこと．\r\n\r\n　　　〆切は過ぎていますが，未提出並びに修正がある場合は下記サイトから提出してください．\r\n\r\n\r\n\r\nポスター作成，印刷について\r\n\r\nポスターサイズ：A0サイズ（縦1189mm×横841mm）\r\n\r\nポスターには必ず以下の内容を含むこと\r\n\r\n・タイトル\r\n\r\n・学籍番号・名前\r\n\r\nポスター印刷に関しては，",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "研究室ごとに決められた時間帯で大型プリンタを用いて印刷すること．\r\n\r\n　\r\n\r\n11月29日追記：システム棟に関しては，29日（金）も印刷可能ですが，14時～18時までは印刷することができません．\r\n\r\nそれ以外の時間帯で印刷を行ってください．\r\n\r\n大型プリンタはシステム棟5階S510-2のプリンタ（EPSON SureColor T5255）ならびに工学研究科2階印刷室のプリンタ（Canon imagePROGRAF TM-305）を使用可能である．\r\n  \r\n  \r\n    \r\n\r\nポスター用紙に関しては研究科において準備するが，印刷枚数等はプリンタ横に設置している用紙に記載すること\r\n\r\n工学研究科2階印刷室が開いていない場合は，教務学生係へ鍵を取りに行ってください．もし教務学生係に鍵が無い場合は応用数学事務室（工学研究科4階，D2-401）に連絡してください（各日最初に印刷する研究室に関しては，別途指示をしているので，その指示に従ってください）．\r\n\r\nポスター印刷終了後は，教務学生係へ鍵を返却する，もしくは応用数学事務室に持ってきてください．\r\n\r\nポスター用紙が無くなっ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "た場合は，工学研究科のプリンタに関しては応用数学事務室に予備を置いているので，取りに行ってください．システム棟の方は大型プリンタの横に予備を置いています．\r\n\r\n【大型プリンタ印刷時の設定および注意について】\r\n  印刷をする際には，プリンターのプロパティから用紙サイズ等の設定を確認・設定をしてください．\r\n  用紙はA0サイズ（縦1189mm×横841mm）・ロール紙：印刷設定の用紙サイズの設定で使用してください．\r\n  用紙の種類：普通紙としてください．\r\n  印刷品質：高品質モードで印刷してもらっても構いませんが，印刷時間が長くなります．可能ならば，少し品質を落として印刷してください．\r\n  ロール紙の自動切り取りが可能ならば，チェックを入れてください．\r\n  万が一，プリンタの部品等，壊した場合は教学委員まで連絡してください．\r\n    \r\n全体の内容について\r\n  研究経過発表会は，3セッションに分かれている．\r\n  各セッションは1時間とする．\r\n  1つのセッションでは自分自身がポスター発表を行い，それ以外のセッション以外では他の学生の発表に対して質問・コメントする．\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "  各セッションで指定されている学生1名に加え，自由に1名以上の学生の発表に対して質問してください．\r\n  原則各セッション2名以上，合計で4名以上の学生に質問してください．\r\n  相手の研究が前に進むような質問・コメントを行ってください．相手の研究に対して敬意をもって接し，ダメ出しや嘲るような内容はしないようにしてください．\r\n  ショートプレゼンテーション動画は六甲ホールにて流し続ける．\r\n  ポスター発表は六甲ホールのホワイエで行い，各セッションで張り替える．\r\n    \r\n\r\n  当日の流れ\r\n\r\n当日は掲示するポスター，ならびにその場で評価・コメントを書き込めるようスマートホン，タブレットなどを持参すること\r\n  ～9時30分：出席の確認，第1セッション学生はポスターを掲示する\r\n  9時50分～：オープニング・説明など\r\n  10時～11時：第1セッション\r\n  11時～11時15分：ポスター入れ替え\r\n  11時15分～12時15分：第2セッション\r\n  12時15分～13時20分：昼休み，第3セッションの学生はこの時間にポスターを掲示のこと\r\n  13時20分～14時2",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "0分：第3セッション\r\n  14時20分～：クロージング・片付け\r\n    \r\n\r\n※ポスターの貼り付けに関しては，指定の場所に貼ること\r\n\r\n評価項目\r\n\r\n研究経過発表会では，神戸大学大学システム情報学研究科のディプロマポリシー（DP）に則り，以下の項目で行います．\r\n  問いとその前提となる背景について十分に説明がされているか？\r\n  用いられた手法について，適切に説明できているか？（わかりやすさ，妥当性など）\r\n  （期待される，また，現時点での）研究成果について，根拠を持って説明されているか？\r\n  現時点での研究成果や今後期待される研究成果に対して，根拠を持って説明・考察することができているか．\r\n  予稿原稿は論理的に記述されているか？\r\n  ポスター発表において，適切な説明ならびに質疑応答ができているか？ \r\n    \r\n\r\n評価並びにコメントは以下のGoogleフォームから記入してください．相手の研究が前に進むような質問・コメントを行ってください．\r\n\r\n評価・コメントを行うためのGoogleフォームへは，会場に掲示したQRコードもしくは以下のリンクからアクセスしてく",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ださい．\r\n\r\n\r\n\r\nコメントは30文字以上書いてください．またその内容に関しては，後日指導教員の先生を通して，本人に公開いたします．\r\n  体調不良，忌引きなど，やむを得ない事情により当日欠席することになった場合，また交通事情等により9時半までに到着が難しい場合は，指導教員の先生および教学委員メーリングリストに必ず連絡してください．無断欠席・遅刻は不利益を被る可能性があります．\r\n  当日不明な点があれば，教学委員（坂本・國領），CSI教員（森田・中田）まで尋ねてください．",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/70",
+            "title": "M1研究経過発表会/2024年度",
+            "category": "M1研究経過発表会",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/69",
+            "title": "MTG/2024年度/2024-12-10",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "H. Takizawa, R. Watanabe, S. Watanabe, N. Fujii, D. Kokuryo, T. Kaihara,\r\nY. Fujioka, and T. Imafuku, “A study on regional revitalization using\r\nparking lot usage history -an approach using a store recommendation\r\nsystem based on bayesian networks-.” Okinawa, Japan, Dec. 15,\r\n2023.\\[haruseACMSA2023\\]\r\n\r\n\r\n渡邉俊介, 藤井信忠, 山川義徳, 冨田克彦, and 渡邉るりこ,\r\n“ウェアラブルデバイスを用いた脳の健康指標 BHQ 推定手法.” Tokyo, Japan,\r\npp. 262–264, Nov. 10, 2023.\\[shunsukeSSI2023\\]\r\n\r\n\r\n山口凌央, 渡邉るりこ, 渡邉俊介, 藤井信忠, 國領大介, 貝原俊也, and\r\n角南泰弘,\r\n“木材流通におけ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/9",
+            "title": "過去の論文/発表論文 2023",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "る作業効率化のための画像処理を用いた木材最小径計測手法に関する研究.”\r\nTokyo, Japan, pp. 39–44, Nov. 10, 2023.\\[yamaguchiSSI2023\\]\r\n\r\n\r\n木村和真, 藤井信忠, 渡邉俊介, 國領大介, 貝原俊也, 渡邉るりこ, 多田暁,\r\nand 中村隆之, “駐車場利用実態分析のための\r\nセグメンテーションを用いた駐車状況可視化手法.” Tokyo, Japan, pp. 29–33,\r\nNov. 10, 2023.\\[kimuraSSI2023\\]\r\n\r\n\r\nK. Kimura, N. Fujii, W. Ruriko, S. Watanabe, D. Kokuryo, T. Kaihara, A.\r\nTada, and T. Nakamura, “Research on a method for analyzing parking lot\r\nusage using video information.” Cairo, Egypt, pp. 455–459, Oct. 22,\r\n2023.\\[kimuraSmartCities4\\]",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/9",
+            "title": "過去の論文/発表論文 2023",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n\r\n\r\n滝澤晴世, 渡邉るりこ, 渡邉俊介, 藤井信忠, 國領大介, 貝原俊也, 藤岡義己,\r\nand 今福貴大, “駐車場利用履歴を用いた地域活性化に関する研究\r\n―ベイジアンネットワークを用いた店舗推薦システムによるアプローチ―,”\r\n2023年度精密工学会秋季大会学術講演会講演論文集. Fukuoka, Japan, Sep.\r\n23, 2023.\\[haruseSeimitsu2023\\]\r\n\r\n\r\n舟橋慧人, 藤井信忠, 渡邉るりこ, 渡邉俊介, 國領大介, and 貝原俊也,\r\n“チェーン工場を対象とした多品種生産スケジューリング手法.” pp. 799–800,\r\nSep. 13, 2023.\\[funahashiSeimitsu2023\\]\r\n\r\n\r\nR. Yamaguchi, R. Watanabe, N. Fujii, D. Kokuryo, T. Kaihara, and Y.\r\nSunami, “Automatic measurement of timber diameter using image\r\nprocessing,” Procedia CIRP, ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/9",
+            "title": "過去の論文/発表論文 2023",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "vol. 126. Elsevier, pp. 44–47, Jul. 11,\r\n2023. doi:\r\n.\\[yamaguchiCIRPICME2023\\]\r\n\r\n\r\n木村和真, 藤井信忠, 渡邉るりこ, 國領大介, 貝原俊也, 多田暁, and\r\n中村隆之, “映像情報を用いた駐車場の利用状況分析手法に関する研究,” vol.\r\n67. Kyoto, Japan, pp. 408–411, May 27, 2023.\\[kimuraSCI2023\\]\r\n\r\n\r\n山口凌央, 渡邉るりこ, 藤井信忠, 國領大介, 貝原俊也, and 角南泰弘,\r\n“画像処理を用いた木材の径級分類に関する研究,” vol. 67. Kyoto, Japan, pp.\r\n934–936, May 27, 2023.\\[yamaguchiSCI2023\\]\r\n\r\n\r\n\r\nbib ファイル:",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/9",
+            "title": "過去の論文/発表論文 2023",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/68",
+            "title": "MTG/2024年度/2024-12-03",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/67",
+            "title": "MTG/2024年度/2024-11-28",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "2024年度\r\nSSI2024 山下貴大\r\n\r\n\r\n\r\n2023 年度\r\nSSI2023 渡邉俊介\r\n\r\n\r\nSSI2023山口凌央\r\n\r\n\r\n\r\nSSI2023 木村和真",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/56",
+            "title": "過去の論文/ポスター",
+            "category": "過去の論文",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/66",
+            "title": "MTG/2024年度/2024-11-19",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n発表者：池岡\r\n資料\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n発表者：松本\r\n資料\r\n\r\n発表者：伊藤\r\n資料\r\n\r\n\r\n\r\n発表者：髙永\r\n資料\r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/65",
+            "title": "MTG/2024年度/2024-11-12",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/64",
+            "title": "MTG/2024年度/2024-11-06",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/63",
+            "title": "MTG/2024年度/2024-10-31",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/62",
+            "title": "MTG/2024年度/2024-10-23",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：髙永\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項\r\n海塾の説明",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/61",
+            "title": "MTG/2024年度/2024-10-16",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/60",
+            "title": "MTG/2024年度/2024-10-9",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\n\r\n第6回ポートアイランドサイエンスフェスティバル\r\n日時：11月2日（土）～11月3日（日）10:00～17:00\r\n場所：バンドー神戸青少年科学館 新館4階 特別展示室 ほか\r\nhttps://www.kobe-kagakukan.jp/event/sciencefes2024\r\n\r\n【ワークショップ】　ロボット・プログラミングで、海洋の未来を探求しよう！　※事前申込\r\n\r\nhttps://www.kobe-kagakukan.jp/event/article/1356\r\n\r\n神戸大学の教授による「海と、船と、仕事」に関して講義を受け、大学生とロボットの仕組みやプログラミングについて学び、シミュレーションや分析を行い、ロボットが指示通りに動作するよう制御しよう。\r\n\r\n神戸大学大学院システム情報学研究科\r\n\r\n海洋水産技術研究所\r\n\r\nアーバンデザインセンター神戸\r\n青少年科学館\r\n青少年科学館自慢のプラネタリウムや展示室のあれこれをご紹介！ きっとあなたの大好きな ... で更新中！ 科学館の中にあるワクワクの瞬間をお届けします。\r\n\r\n\r\n 担当\r\n\r\n①港湾物流：道下",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/57",
+            "title": "海塾/2024年度",
+            "category": "海塾",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "，佐々木\r\n②自動航行：滝澤，濱田(真)\r\n③暗号化：池岡，早田\r\n④通信：山下，高永\r\n⑤航路計画：濱田(飛)，橋本\r\n※滝澤復活\r\n※3日のみ：池岡，高永，橋本\r\n※欠席：舟橋，松本\r\n\r\n資料",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/57",
+            "title": "海塾/2024年度",
+            "category": "海塾",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/59",
+            "title": "MTG/2024年度/2024-10-2",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：佐々木\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/58",
+            "title": "MTG/2024年度/2024-9-26",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "この記事は書きかけです．皆様の改善をお待ちしております．\r\n\r\n\r\n概要\r\n研究において，様々な理由で既存の研究を調査する必要が出てくるけど，論文の検索は結構難しい．\r\n最初は，検索するのに適切な単語が分からなかったりね…．\r\n\r\nAIの進歩で文献の探し方が変わってきたと思うので，最近はみんな何で調べているか，ここにまとめていけたら良いな．\r\n\r\n検索サイト\r\n伝統\r\n Google Scholar（https://scholar.google.com/ ）\r\n     これが定番だと思われる．適切な単語で検索しないといけないので，少しむずかしい．\r\n Google\r\n     Google Scholar で出なかった文献が，意外とこっちで引っかかることもある．\r\nAI系\r\n Consensus（https://consensus.app/search/ ）\r\n     自然言語で検索し，文献の要約なども自動で返してくれる．英語中心？",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/55",
+            "title": "TIPS/論文検索",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：\r\n資料\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/54",
+            "title": "MTG/2024年度/2024-09-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/53",
+            "title": "MTG/2024年度/2024-09-03",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：髙永\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/52",
+            "title": "MTG/2024年度/2024-08-26",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "要点\r\n学生一人で動く前に、先輩や大人に相談してから動く。\r\n日程調整は3ヶ月以上前から始めるべき。\r\nまずは藤井先生と宋先生の日程を尋ねる。\r\n\r\n背景\r\n1泊2日の講座旅行を例にして説明する。\r\n学会などは出張のような扱いのため、先生は仕事として行く。\r\nしかし、講座旅行はプライベートなものであるため、仕事を休みにして行く。\r\nただ、平日2日とも休みを取ることは難しいため、日程を日月、金土とすることで対応している。\r\n近くの日程は埋まっているため、もっと早めに聞く必要がある。",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/51",
+            "title": "TIPS/イベントの日程について",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/50",
+            "title": "MTG/2024年度/2024-08-22",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項\r\n\r\n次週はお盆なのでお休みです。",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/49",
+            "title": "MTG/2024年度/2024-08-7",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n\r\n発表者：伊藤\r\n資料\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/48",
+            "title": "MTG/2024年度/2024-08-01",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下（イタリア学会感想）\r\n\r\n資料\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/47",
+            "title": "MTG/2024年度/2024-07-18",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\njupyter で共通部分を別ファイルにして，import するようにするとコードがメンテナンスしやすくなる．\r\nでも，別ファイルを書き換えたときにすぐ反映されないので少し不便．\r\nそういうときは，autoreload という機能を使おう．\r\n\r\n背景：共通部分を別ファイルに分けたい\r\njupyter でたくさんノートブック作っていると，複数のノートブックで\r\n同じ機能を書いてることがよくある．\r\nそういう場合はそこだけくくりだして別ファイルにしてしまうと良い．\r\n例（コード分割前）\r\na.ipynb:\r\npython\r\nいろんなとこに書いてるデータ読み込み処理↓\r\ndef readdata(fn):\r\n    with open(fn, 'r', encoding='utf-8') as inf:\r\n        return dict([line.rstrip().split('=') for line in inf.readlines()])\r\n\r\ndata = readdata('dataA.txt')\r\n\r\ndata に対して色々な解析処理Aを行う\r\n\r\n例（コード",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/46",
+            "title": "TIPS/Jupyterでコード分割したときに便利な autoreload",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "分割後）\r\na.ipynb:\r\npython\r\nimport datautils\r\ndata = datautils.readdata('dataA.txt')\r\n\r\ndata に対して色々な解析処理Aを行う\r\n\r\ndatautils.py:\r\npython\r\ndef readdata(fn):\r\n    with open(fn, 'r', encoding='utf-8') as inf:\r\n        return dict([line.rstrip().split('=') for line in inf.readlines()])\r\n\r\n\r\n問題：分けた別ファイル書き換えてもすぐ反映されないやん\r\n上記のようにするといい感じだけど，別ファイルを書き換えても\r\n次回のセル実行時に内容がすぐ反映されない．\r\n1. a.ipynb をいろいろ編集中…\r\n1. datautils.py を変更（readdata 関数を書き換え）\r\n1. a.ipynb のセルを再実行\r\n1. 変更前の readdata 関数が実行される \r\n1. 困る〜〜〜（解決するにはノートブックのカーネルを",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/46",
+            "title": "TIPS/Jupyterでコード分割したときに便利な autoreload",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "再起動するしかない）\r\n\r\n解決法：autoreload 機能を使う\r\n下記をノートブックの最初のセルあたりに追加すると，importしている別ファイルの変更がすぐ反映されるようになって非常に便利．\r\npython\r\n%loadext autoreload\r\n%autoreload 2\r\n\r\n公式ドキュメントによるとセル実行するときに毎回モジュールをロードしなおしてくれているらしい．助かる．\r\n\r\n参考にしたページ\r\nhttps://ipython.org/ipython-doc/3/config/extensions/autoreload.html",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/46",
+            "title": "TIPS/Jupyterでコード分割したときに便利な autoreload",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：道下（発表練習）\r\n\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/45",
+            "title": "MTG/2024年度/2024-07-04",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：松本\r\n\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：濱田真\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/44",
+            "title": "MTG/2024年度/2024-06-27",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：佐々木\r\n\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n発表者：早田\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/43",
+            "title": "MTG/2024年度/2024-06-19",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：池岡\r\n\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n\r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/42",
+            "title": "MTG/2024年度/2024-06-12",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：伊藤\r\n\r\n資料\r\n\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n\r\n発表者：髙永\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/41",
+            "title": "MTG/2024年度/2024-06-04",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：舟橋\r\n\r\n資料\r\n\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n連絡事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/40",
+            "title": "MTG/2024年度/2024-05-28",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\n神戸大学 大学院システム情報学研究科 所属．\r\n神戸生まれ神戸育ち．\r\n\r\n研究\r\n物流の最適化の研究．\r\nドライバに仕事を割り当てる輸送計画問題を最小費用流問題として定義することで、効率的な輸送計画の実現を目指しています．\r\n\r\n開発環境\r\n言語：python\r\nIDE：VScode\r\nFormatter：Black+flake8+isort",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/17",
+            "title": "個人ページ/髙永 潤",
+            "category": "個人ページ",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "1. アンケート調査\r\n＜URL＞\r\nhttps://docs.google.com/spreadsheets/d/18tgKllQxSUz3PZOZXQXrsdEafchuqP/edit?usp=sharing&ouid=110228923777962364101&rtpof=true&sd=true\r\n＜注意＞\r\n17日と18日で記入するエクセルシートが異なるので、しっかり確認してから記入してください。\r\n基本集計のシートは触らないようにしてください。\r\n\r\n2. 滞留行動調査\r\n＜URL＞\r\nhttps://docs.google.com/spreadsheets/d/1VGUVee7jykZ8-ZZxygKYHeN6Cqng506/edit?usp=sharing&ouid=110228923777962364101&rtpof=true&sd=true\r\n＜注意＞\r\n場所、日付ごとに記入するシートが異なるため、しっかり確認してから入力してください。\r\n「基本情報グラフ」より右側のシートは取りまとめようなので触らないでください。\r\n二人以上の時は一人ずつ入力するようにしてくださ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/38",
+            "title": "TIPS/姫路調査シート記入URL",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "い。(二人だと、滞留時間が同じ人が連続で2列できるイメージ)",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/38",
+            "title": "TIPS/姫路調査シート記入URL",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：山口\r\n\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n\r\n\r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n連絡事項\r\n初年次セミナー5/23(木) 3限〜",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/37",
+            "title": "MTG/2024年度/2024-05-21",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "webサイト\r\n\r\n\r\n就活サイト\r\nGoodfind→企業紹介系、メガベンチャーとかも特別ルートの紹介などあり\r\n外資就活→コンサルとかの、色んな締切が載ってる\r\nワンキャリア→過去の内定者のESとか面接内容とかテストの種類をしれる\r\n就活会議→過去の内定者のESとか面接内容とかテストの種類をしれる\r\n\r\n企業紹介系はGoddfindだけでいいとは思う",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/21",
+            "title": "TIPS/その他",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：舟橋\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n<details><summary>山下メモ</summary>\r\n\r\np27\r\n隙間があるから埋めたように聞こえる\r\n今回やったことは本当にそれか\r\nきちっとやっとことを説明してほしい\r\n\r\nなぜ品数増やしてやろうと思ったかの説明ができていない\r\n\r\n納期のないオーダはあるのか\r\n\r\np18の作業実績の820日との関係性は？\r\n作業実績の納期遅れの計算がおかしいのでは\r\n\r\n9月にやる予定だったものが全部入っているのはなぜ，全部できないのでは\r\n9月に着手して9月に終わったもので比較するべきでは\r\n\r\n在庫品，汎用品？などの言葉の定義を最初にしてほしい\r\n\r\n遅れが発生しているものをなぜ追加している\r\n\r\np32\r\n9月以前に作るものが残っているはずなのに，なぜガントチャートの左側に納期遅れが少ないのか\r\n真ん中のほうにしか納期遅れがないのか\r\n\r\n8月の積み残しの分は色を変えるとか\r\n8月の積み残し分をいれるいれないは分けて比較してほしい\r\n\r\n前工程の24時間制約？が入っていないように見える\r\n\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/35",
+            "title": "MTG/2024年度/2024-05-14",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "p12\r\n(4)式に直接20という数字を入れるのではなく，文字でおく\r\n\r\n\r\n\r\nTHE GOAL を1枚にまとめる\r\n\r\n\r\n</details>\r\n\r\n発表者：髙永\r\n資料\r\n\r\n\r\n\r\n指摘\r\n\r\n連絡事項\r\n初年次セミナー5/23(木) 3限〜\r\n外部の大学からの見学あるかも",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/35",
+            "title": "MTG/2024年度/2024-05-14",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田飛\r\n資料\r\n\r\n\r\n指摘\r\n\r\n<details><summary>山下メモ</summary>\r\n\r\np15\r\n分枝限定法なのか，断言していいのか\r\n\r\n品質ではなく質\r\n\r\n焼きなまし法は冷やしながら叩かない\r\nジョジョに冷ます\r\n\r\n形状は安定しない\r\n靱性があがる\r\n\r\np16\r\n交換近傍を探索はおかしい\r\n一般的には近傍を探索\r\n\r\nQ個の候補解から選ばれるのは1個なのか\r\n\r\n</details>\r\n\r\n発表者：舟橋（次週へ変更）\r\n資料\r\n\r\n指摘",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/34",
+            "title": "MTG/2024年度/2024-05-09",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ダウンロード\r\n1.  にアクセス．\r\n2. 右上の「REGISTER」をクリック．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 011 - The Leader in Decision Intelligence Technology - Gurobi Optimization - www.gurobi.com.png (1.6 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/05/08/156984/8bfe6929-824e-4ecd-85e3-c16378e683cf.png\">\r\n\r\n\r\n3. 登録内容は以下の通り\r\n\r\n<dl>\r\n  <dt>(1/3)</dt>\r\n  <dd>Email: 学籍番号のメールアドレス（2-----t @stu.kobe-u.ac.jp）</dd>\r\n  <dd>First Name: 名前（英語）</dd>\r\n  <dd>Last Name: 名字（英語）</dd>\r\n  <dd>Country/Regi",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/33",
+            "title": "TIPS/Gurobiのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "on: Japan</dd>\r\n  <dd>Phone: 電話番号</dd>\r\n  <dt>(2/3)</dt>\r\n  <dd>Commercial or Academic: ACADEMIC</dd>\r\n  <dd>University: Kobe University</dd>\r\n  <dd>Academic Position: Student</dd>\r\n  <dd>Expected Graduation Year: 202X（卒業予定年）</dd>\r\n  <dd>Expected Graduation Month: March（卒業予定月）</dd>\r\n  <dt>(3/3)</dt>\r\n  <dd>Password: 任意のパスワード</dd>\r\n</dl>\r\n\r\n4. 登録したメールアドレスにコードが届くので，コードで認証を行ってサインイン．\r\n5. ユーザーポータル画面の右上「Downloads」から「Gurobi Software」をクリック．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 013 - User Portal - ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/33",
+            "title": "TIPS/Gurobiのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "portal.gurobi.com.png (285.2 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/05/08/156984/c53912b5-4cb0-41c1-a8b7-da7c89ec1f36.png\">\r\n\r\n6. 遷移したページで画面を下にスクロールし，自分のOSにあったGurobi Optimizerのインストーラをダウンロード．\r\n（支給されたMacBook Airなら「macOs Universal2」をクリック）\r\n\r\nインストール\r\nダウンロードしたインストーラをダブルクリック．\r\nインストーラの指示に従ってインストール．\r\n\r\nライセンス取得\r\n1.  にアクセス．\r\n2. 右上の「LOGIN」から自分のアカウントにログインし，ユーザーポータルにアクセス．\r\n3. 左メニューの「Licenses」をクリック．\r\n4. 「Request」をクリックし，Named-User Academicのライセンスを作成．\r\n\r\n<img width=\"2940\" alt=\"F",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/33",
+            "title": "TIPS/Gurobiのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ireShot Capture 014 - User Portal - portal.gurobi.com.png (442.7 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/05/08/156984/16608918-a844-43e0-ac10-b17e28c00d1f.png\">\r\n\r\n5. 出てきたポップアウトにある<code>grbgetkey ~</code>をコピーする．\r\n6. コマンドプロンプトを開き，ペーストしてエンター．\r\n7. 何も設定を弄っていなければ，ユーザーディレクトリ直下に「gurobi.lic」が作成されているはず．\r\n\r\n動作確認\r\nデスクトップにある「Gurobi」のショートカットアイコンをクリックして，gurubiが起動していればライセンス登録が正しく完了しています．\r\n\r\nPythonのライブラリインストール\r\nAnacondaを使用している場合\r\n「Anaconda Prompt」を開き，以下のコード を用いてライブラリをインストールする．\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/33",
+            "title": "TIPS/Gurobiのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\nconda install -c gurobi gurobi\r\n\r\n\r\nAnacondaを使用していない場合\r\n「Anaconda Prompt」を開き，以下のコード を用いてライブラリをインストールする．\r\n\r\npython -m pip install gurobipy\r\n\r\n\r\nPythonのPuLPで使用する\r\nPuLPを使用している場合，ライブラリをコード中にインポートせずとも，ソルバー選択で<code>pulp.GUROBICMD()</code>を選べばOK．",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/33",
+            "title": "TIPS/Gurobiのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：高永\r\n資料\r\n\r\n\r\n指摘\r\n<details><summary>伊藤メモ</summary>\r\n目的のスライドで，「定式化の提案」となっている\r\n なぜ最小費用流問題で解くのかの説明がない\r\n →先行研究のスライドがない\r\n多段のネットワークとして考えないのか？（1日2日，，，n日と段を分ける）\r\n→従来の方法は，一日に一つのノードしか行けない（自信ない）\r\n→計算時間が短くなるのでは？\r\n空車走行パターンの2番目は必要なのか？\r\n→もし，2番目のパターンがあると効率的になるのであれば良い．\r\n→2番目のパターンがあると，解空間が広くなるので，できれば入れたくない\r\n→2番目があるパターンとないパターンで計算結果を比較するとよい\r\n定義式の(4)式の3番目のパターンがうまく表現できていないのでは？\r\n→3番目の式が怪しい\r\n福岡Bから動かなかったのは，輸送依頼が少ない等によるものなのか？\r\n→定義式の Eが原因では？\r\n休みノードを作成するのはどう？\r\n今年中に動かせるもの作成したい\r\n→境界条件を議論したい\r\ncs21の田之畑さん（結構前",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/32",
+            "title": "MTG/2024年度/2024-05-02",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "の卒業生）が集合分割問題として定式化していたかも\r\nなぜ輸送計画問題を最小費用流問題で解く例が少ないのか？\r\n→制約式が難しくなる．\r\nグロオビを試して\r\n(2)(3)式の影響で，割り当てが後ろの方に割り当てられ易くなっているのでは？\r\n稼働率の平準化も必要\r\n実際の結果との比較もあれば\r\n空車走行の決まり方\r\n→輸送依頼の組み合わせから後から解釈する必要がある\r\nまとめの部分をもう少し上手くまとめられるのでは？\r\n</details>\r\n\r\n<details><summary>山下メモ</summary>\r\n\r\np3\r\n定式化の提案だと定式化だけとなる？解いてないの？\r\n\r\n突然最小費用流問題とでてくる，何かワンクッションなかったか\r\n\r\np10\r\n1日で2回移動することはあるのか\r\nなぜ段つき？の最小費用流問題にしなかったのか\r\n\r\n何もしないというノードを置くと組み合わせが減らないか\r\n多段のネットワークのほうが組み合わせが減らないか\r\n問題点としては1日に2つのノードを行けなくなる\r\n\r\n1日目2日目3日目…と段をつくっていく\r\n\r\nどっちのモデルを使うかは考えてみてほしい\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/32",
+            "title": "MTG/2024年度/2024-05-02",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\np17\r\n2パターン目がいるかどうか\r\n\r\np19\r\n拘束時間が16時間超えているがなぜ\r\n確認しておきたい\r\np15の(2)(3)が影響している\r\n\r\np21\r\nなぜE？cとrで表せるのでは\r\n\r\np26\r\n3パターン目の1日の空車の効果が出ていない？\r\n\r\n\r\n研究とは別に半年で何か作ろう！！！！！！！！！！\r\n\r\n最小費用流問題にこだわる必要はないアルね\r\nはやくヒューリスティックにいったほうがいいカモね\r\n\r\n</details>\r\n\r\n発表者：道下\r\n資料\r\n\r\n\r\n\r\n指摘\r\n<details><summary>伊藤メモ</summary>\r\n成果報酬型は，成果報酬は外発的動機づけであり，内発的動機づけ（競いあったり，）ではないのでは？\r\n→外発的動機づけを元に，内発的動機づけを生み出す。\r\n成果報酬型は，内発的動機づけ要素が薄いので，長期的使用が少ないのでは？\r\nP4は，左側に書き出しものはオリジナルなのか？だとしたらかしこ\r\n→絶妙に対比されていない\r\n→筋は通っているが，書き方が甘い\r\n５P最後，複数店舗の訪問→複数店舗の訪問を促す\r\nスライド１ページの情報量が多",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/32",
+            "title": "MTG/2024年度/2024-05-02",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "い\r\n-P15休憩目的→宿泊目的\r\nP19ホテルと買い物も補完性があるのでは？\r\n→一般的に宿泊はすべての来街目的と補完性があるのでは\r\n→見方によって，グラフ構造も異なるはず\r\nカテゴリー選考の決定方法について全体を見せてほしい\r\n-式は縦に並べて，式番号をつけ，注釈は横に表示\r\nクーポン情報は，最新の情報を確認\r\np34のスライドを先ず最初に見せて，詳しい話を行う必要がある\r\n使用数の話は面白いが，使用時間に合うクーポンを選ぶ必要があり，飲食店と宿泊施設は代替関係ではなく，目的外のはず\r\n使用数を考える場合，時間の制約を落札の段階で考える必要があり，問題が複雑になる．\r\n→さらに，時間の制限による代替性の考慮も必要になる\r\n→時間の取り合いを考慮した落札方法\r\n補完性を考慮した場合と，考慮していない場合の比較\r\n今は，組み合わせオークションになっているのか？\r\n→普通は，入札者が組み合わせる，現状はセットクーポンであり，組み合わせ入札になっていない\r\n選好を元に効用が決まるのでは，意思決定において選好と効用の違い明確に！\r\n→発表中に定義化してもよい\r\n\r\n</details>\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/32",
+            "title": "MTG/2024年度/2024-05-02",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n<details><summary>山下メモ</summary>\r\n\r\np3\r\n外発的動機づけをきっかけに内発的動機づけをおこなうというような書き方にしてほしい\r\n上半分と下半分がつながっていない様に見える\r\n\r\np4\r\n途中まででもいいから対比させるように書いてほしい\r\n赤字は対比になっているが，黒字はなっていない\r\n\r\n逐次報酬型のところだけMilesなどのと入れる意味ない消す\r\n\r\np5\r\n複数店舗の訪問を促す\r\n実際の発表では文字量が多いから2枚に分けたりする\r\n\r\np15\r\n宿泊ではだめなのか？えろくないか///\r\n\r\np19\r\nホテルと買い物も補完性があってもいいのでは\r\n来街目的によって図が変わるのでは\r\n\r\np22\r\n式は縦に並べて，注釈は横に書く\r\n通し番号もつける\r\n\r\np26\r\n現在の店舗と変化があるのでは（沿岸部）\r\n沿岸部だけでない全部の店舗数も載せる\r\n\r\np29\r\nなぜ一番高いもので説明をしたのか\r\n\r\np34\r\nまずはこの全体の表を出さないとわからない\r\n\r\n\r\n1入札複数クーポンが組み合わせ入札では\r\n選好と効用について考えて，自分の研究ではどう使",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/32",
+            "title": "MTG/2024年度/2024-05-02",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "うかを言う\r\n\r\n</details>",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/32",
+            "title": "MTG/2024年度/2024-05-02",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "(環境)\r\n・Windows11\r\n・python3.10\r\n・コマンドプロンプトで実行\r\n※仮想環境上で操作するとやりやすかった（伊藤）\r\n(参考サイト)\r\nhttps://qiita.com/gomi1994/items/36d5c75a29231fc3c9d7\r\n\r\n１．(Visual Studioをインストール)\r\nVscodeはコードを書く際に必要だが，Visual Studio自体が必要かどうか不明\r\n伊藤は無くてもできた。\r\n\r\n２．GPUのドライバをインストール\r\n・NVIDIAドライバ\r\nhttps://www.nvidia.co.jp/Download/index.aspx?lang=jp\r\n最新のバージョンをダウンロード\r\nPoint:studio ドライバーを選択\r\n\r\n３．pytorchのバージョンにあったcudaのtoolkitをインストール\r\n・CUDA Toolkit\r\nhttps://developer.nvidia.com/cuda-toolkit\r\nvscodeのターミナルで「nvidia-smi」を入力し，cudaのバージョンが出力されるので，そ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/25",
+            "title": "TIPS/GPU(cuda)を使えるようにする",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "れと同じバージョンのcudaをダウンロード\r\n\r\n４．Cudaのバージョンにあったcudnnのツールキットをインストール\r\n・NVIDIA cuDNN\r\nhttps://developer.nvidia.com/rdp/cudnn-archive\r\n\r\n５．環境変数を通す\r\n・windows→システム環境変数の編集→環境変数\r\n(例)\r\nCUDAPATH\r\nC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.3\r\nCUDNNPATH\r\nC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.3\r\n\r\n・コマンドプロンプトを起動して次のコマンドを入力したとき，出力が以下のようになっていることを確認\r\n(入力)nvcc -V\r\n(出力)\r\nnvcc: NVIDIA (R) Cuda compiler driver\r\nCopyright (c) 2005-2023 NVIDIA Corporation\r\nBuilt on FriNov317:51:05PacificDaylight",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/25",
+            "title": "TIPS/GPU(cuda)を使えるようにする",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Time2023\r\nCuda compilation tools, release 12.3, V12.3.103\r\nBuild cuda12.3.r12.3/compiler.334928910\r\n\r\n場合によっては，ダウンロードと同時にpathが通っていることもある\r\nまた，(入力)nvcc -Vを行ってもエラーが起きる場合は，再起動するとうまくいった\r\n\r\n６．Cudaのバージョンにあったpytorchをインストール\r\nhttps://pytorch.org/\r\n(注意)\r\n・cudaのバージョンが12.3で，pytorchが12.1までしか対応してなかったので，そのままインストールしたけど動いた\r\n・pip list等で確認した時，torchなどが以下のようにGpu用になっていないと機械学習させたときに，’nms関数使えないよ’とかのエラー出たりするから注意\r\ntorch                   2.1.0+cu121\r\ntorchaudio              2.1.1+cu121\r\ntorchvision             0.16.0+cu121",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/25",
+            "title": "TIPS/GPU(cuda)を使えるようにする",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n\r\n７．pythonでGPUが使えるかどうかを確認する\r\n・コマンドプロンプトを起動\r\n>python\r\n>>import torch\r\n>>>>>print(torch.cuda.isavailable())\r\nTrueと出力されればpytorchがGpuを認識できているのでOK!\r\n\r\n8．さらに以下のサイトのサンプルプログラムを実行し，Windowsのタスクマネージャーというアプリで，GPUが使用されているか確認すると確実\r\nhttps://imagingsolution.net/deep-learning/pytorch/pytorchmnistsampleprogram/",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/25",
+            "title": "TIPS/GPU(cuda)を使えるようにする",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\n研究室のサーバーが増えてきたので，各自の（研究室内の）PCから操作できるようにしています．\r\nとても便利（当社比）．\r\n\r\n研究室のサーバー一覧は   にあります．\r\n\r\nやり方\r\nWindows\r\n「リモートデスクトップ接続」をタスクバーに入力し起動します．\r\nコンピューター名（  に示されているもの）を入力し，「接続」ボタンを押します．\r\nMac\r\nMac版のをインストールしてください．\r\nコンピューター名（  に示されているもの）+「.local」（例：meishodotou.local）を入力し，接続します．\r\n（※なぜか「.local」が不要な場合もあるので，繋がらない場合は「.local」なしで試してください．）\r\n\r\nアカウント\r\n各個人のアカウントを作成してログインしてください（分かりやすい名前にしてください）．\r\n初回のみ管理者ユーザー「cs18a」，パスワード（ここには書きませんので聞いてください）を使ってログインし，アカウントを作成します．\r\nアカウントの作成方法は以下の記事を参照してください．\r\nhttps://www.sanno.ac.jp/under",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/29",
+            "title": "サーバー関連/リモートデスクトップ",
+            "category": "サーバー関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "graduate/ic/pc/eleven/account.html\r\n\r\nTips\r\nマルチディスプレイ したい\r\n接続前の「画面」タブにて，「リモートセッションですべてのモニターを使用する」にチェックを入れてください．\r\nなかなかつながらない（他の人がつなぎっぱ）\r\nデフォルトでは1つのコンピューターに同時に1人の人しかつなげません（実はゴニョゴニョすると設定変えられるけど）．\r\n他につなぎっぱの人がいる場合，30秒後にその人を強制切断する設定になっていますので，30秒お待ちください．\r\nあと，リモートデスクトップの無用なつなぎっぱは他の人の迷惑なのでやめましょう．\r\nつながらない（Mac）\r\nMacでは接続先コンピュータ名に.localをつけるのが基本ですが，.localつけなくていいときがあるっぽい（謎）ので，つけたり外したりして試してください．",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/29",
+            "title": "サーバー関連/リモートデスクトップ",
+            "category": "サーバー関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：山下\r\n資料\r\n\r\n\r\n\r\n指摘\r\n<details><summary>髙永メモ</summary>\r\n先日のミーティングを受けての内容が無かった．\r\n今後の方向性をどうするのか，過去にしてきたことに縛られずに自由に想像して欲しい．\r\n\r\n</details>\r\n\r\n発表者：橋本\r\n資料\r\n\r\n\r\n\r\n指摘\r\n<details><summary>髙永メモ</summary>\r\n\r\n\r\n</details>\r\n\r\n連絡事項\r\n\r\nB4：ちゃんと輪講だけでなく研究も進めること．\r\n早田\r\n近藤の資料を読む．\r\n鈴木の資料を読む．\r\n余裕があれば松本の資料も見る．\r\nどういう対象の問題で，先輩らがどこまで進めたのかを把握しておく．\r\n濱田（真）\r\n山本の資料を読む．\r\nシステム制御情報学会，藤井，玉置，片野が書いているレジリエンスの解説記事を読む．\r\n鈴木\r\n津谷の資料を読む．\r\n岸本の資料を読む．\r\n画像解析になりそうなので，そこの勉強をしておく．\r\n松本\r\n研究テーマ変わりそうだけど，交通系のシミュレーションにはなりそう．\r\n小山の資料を読む．\r",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/31",
+            "title": "MTG/2024年度/2024-04-26",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\n孫の資料を読む．\r\nサロゲートモデルも調べる．神戸大学では坂本先生が熱心に取り組んでいる．\r\nただシミュレーションして，条件変えて結果分析だけでは面白みがないので，工夫していくことにはなりそう．\r\n\r\n6月，卒論で何をするか発表してもらうので，しっかり勉強して方向性を考えておくこと．",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/31",
+            "title": "MTG/2024年度/2024-04-26",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "試作ページ\r\nhttp://xs164333.xsrv.jp\r\nwordpress ログインページ\r\nhttps://xs164333.xsrv.jp/?2xw31rowjhox\r\nToDo（Trello）\r\nhttps://trello.com/invite/cs18aweb/ATTIa6a02c22a3a9a989f715e42746ed444f4A6A3E04",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/8",
+            "title": "web関連/webページ管理情報",
+            "category": "web関連",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Copied from: \r\n\r\n発表者：濱田（飛）\r\n資料\r\n\r\n\r\n指摘\r\n<details><summary>髙永メモ</summary>\r\n納期は与えられるもの．自分で設定するものではない．\r\n共同研究先から言われていることだけをやっていれば良いわけではない．\r\n修論でどこまでやるのか，ゴールを明確にしておく．\r\n実験条件は実験ごとに明記しておく．\r\n\r\n</details>\r\n\r\n<details><summary>山下メモ</summary>\r\n\r\n修論はどこまでやる予定か\r\n新規性，工夫面を考えて\r\n\r\n実験ごとに条件を載せて\r\nSAの説明はどこ\r\n近傍の作り方の話\r\n\r\nSAの方が本当に良いのか\r\nSAについても調べて\r\n\r\n進化戦略？\r\nGECCO\r\nhttps://gecco-2024.sigevo.org/HomePage\r\n\r\ncplexのメモリ解放手法とかないのか\r\n新しいoptimizerとの比較もして\r\n\r\np3\r\n時間経過で鮮度は〜の文，日本語おかしくないか\r\n鮮度が低下すると，なぜ納期が短く設定されるか\r\n滞留時間を短くしたいという意味の日本語になって",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/28",
+            "title": "MTG/2024年度/2024-04-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "いない\r\n納期は与えられるもの\r\n在庫時間・滞留時間を短くしたいという話\r\n\r\np4\r\n解の品質とは言わない，解の質\r\n\r\np5\r\n葉野菜で合っているのか，生野菜では\r\n\r\np6\r\n前処理の成形とはどういったものか…へたを取ったりです\r\n\r\np12\r\nどれだけ複雑か伝わらない\r\n1日の生産がどれくらいか，バライティがどれくらいか，納期・品目数がどれくらいかなど\r\n\r\np17\r\n納期ずれは設定されているのではなく一般的な定義\r\n\r\np20\r\n後ろ向きに芋づる式にではなく，前方向\r\n\r\np23\r\n工程数基準の基準はいらない\r\n\r\n作業開始可能時刻は与えていないのでは\r\n作業開始可能時刻が品目ごとに与えられているようにみえる\r\n\r\nソルバはIBMほしい\r\n\r\n12thとはRとかTMはいらない\r\n\r\np25\r\n左向きの矢印ではなく，両向きの矢印で，点線も使う\r\n\r\np26\r\nこの具体例についてもp25のような図はないのか\r\n\r\np31\r\n横軸は時刻\r\n\r\np36\r\nなぜそれに注目したか，わかりにくい\r\nわかりやすいものを例に選んで\r\nガントチャートの説明ならディスパッチングの結果でもいいのでは",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/28",
+            "title": "MTG/2024年度/2024-04-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n上から下へ矢印\r\n\r\np39\r\nどこを見たらいいかわからない\r\n横軸を分にするか，時刻で表してもいいのでは\r\nきゅうりがおかしい\r\n\r\np41\r\n初期解（ディスパッチング）がいるのでは\r\n\r\np42\r\nどこがどう変わっているのか\r\nどこが良くなっているのか\r\n\r\n図ごとにキャプションをつけて\r\n\r\np43\r\n余裕時間の設計ではなく変更でいいのでは\r\n\r\n</details>\r\n\r\n発表者：伊藤\r\n資料\r\n\r\n\r\n指摘\r\n<details><summary>髙永メモ</summary>\r\nマジックナンバーを数式やフローチャートの中に入れない．定数記号にする．\r\n\r\n</details>\r\n\r\n<details><summary>山下メモ</summary>\r\n\r\n多変量解析ぐらいまで，資料厳選して\r\n\r\nプログラム渡すことについて考える\r\npythonコードを生で渡すのではなく，バイナリー形式？で渡す\r\npyinstaller，無理だったらdockerでコンテナ形式で渡す\r\n\r\n研究としてどういう方向へいくのか考えて\r\n\r\np13\r\n生長面積とはそもそも何か\r\n代用と言っていたけど，",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/28",
+            "title": "MTG/2024年度/2024-04-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "鉛直投影面積のことでは\r\n\r\nrMaxとはどこのことか\r\nrMaxの表記はやめよう\r\n\r\np15\r\nTureとは\r\n\r\nflagにnがついているついていないがあるのか？正確に書いて\r\n\r\nこの条件式の書き方で合っているのか\r\n\r\nTrue, Falseは大文字で書くのか調べて\r\n\r\nβの1と2の添え字を右上に書くなど工夫して\r\n\r\np16\r\n365とかは変数（今回だと最大日数とかにする）で記載，具体的な数字は実験条件へ\r\n\r\np17\r\nメッシュの大きさはいくつか，調べておいて\r\n\r\np18\r\n収穫日だけではなく，表をグラフにしたほうがわかりやすい\r\n\r\n実データではないのでは\r\n書き方を変えないとミスリードする\r\n本当の実データでないとおかしいのでは\r\n\r\n他のデータはあるのか，松波とかは平均値（何株分）なのか\r\n予測は一株分？\r\n\r\n気象データが異なるのはなぜ\r\n\r\n大きな誤差は見られないでスライドは終わっておいて，課題が見つかったと言う\r\n\r\n\r\n\r\n</details>\r\n\r\n連絡事項\r\n\r\nNot found.",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/28",
+            "title": "MTG/2024年度/2024-04-17",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\nWindows 11 ではデフォルトで Microsoft アカウントを使ってのセットアップが要求されるようになった\r\n（Windows 10はそんなことなかったんだけど…）．\r\n\r\n共有PCで Microsoft アカウントを使ってセットアップすると様々な問題が起こる\r\n（アカウントの管理や，OneDriveへの勝手なデータの同期などで面倒な事態になる）．\r\n\r\n個人はともかく，共有PCはローカルアカウントでセットアップしよう．\r\n\r\nやり方（WiFi繋ぐな）\r\n下記の方法を使えば良い．\r\nhttps://atmarkit.itmedia.co.jp/ait/articles/2210/21/news023.html\r\n\r\n1. 最初の国選択画面で Shift+F10→ oobe\\BypassNRO.cmd を実行．再起動される\r\n1. LAN（WiFi）を絶対に繋がずに，Microsoftアカウント作成を断りながらセットアップを進める．\r\n\r\nあっWiFiつないでもた\r\n間違ってWiFiにつないでしまった場合はWiFiを覚えられてしまうのでMicrosoftアカウント使用が",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/27",
+            "title": "TIPS/Windows 11にてローカルアカウント使ってセットアップ",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "回避不能になってしまう．\r\nその場合，Shift+F10 から下記コマンドを使って無線を切った状態でセットアップを進める．\r\nhttps://crieit.net/posts/Windows-10-Wi-Fi\r\n\r\nnetsh wlan disconnect\r\n\r\n\r\n（悲報）\r\nhttps://twitter.com/kobefs/status/1778407031839547593\r\n塞がれたという噂",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/27",
+            "title": "TIPS/Windows 11にてローカルアカウント使ってセットアップ",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ダウンロード\r\n1.  にアクセス．\r\n2. 「Register now」をクリックして学籍番号のメールアドレス（2-----t @stu.kobe-u.ac.jp）で新規登録．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 003 - IBM SkillsBuild Software Downloads - www.ibm.com.png (6.1 MB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/08/156984/496fe6ba-6249-4aa8-b8e4-a7179b0021ef.png\">\r\n\r\n3. 登録内容は以下の通り\r\nRole: Srtudent\r\nCurrent Degree: Bachelor of Engineering（B4の場合）/ Master of Science（M1, M2の場合）\r\nSought Degree: Bachelor of Engineering（就職の場合）/ Master of Scien",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/22",
+            "title": "TIPS/CPLEXのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ce（院進の場合）\r\nExpected graduation Date: 202X（卒業予定年）\r\nMonth: Mar（卒業予定月）\r\nDepartment: System Engineering and Engineering Management（自分の研究分野）\r\n\r\nEnroll me in the IBM badge program. は任意．よく分からなければNo でOK .\r\n「Software Downloads terms of service」と「privacy consent」はそれぞれクリックしてAccept する．\r\n最後にRegister して登録．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 005 - IBM Academic Initiative - academic.ibm.com.png (309.8 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/08/156984/e05f3370-7be2-46c",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/22",
+            "title": "TIPS/CPLEXのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "3-bfc0-be3e9d080311.png\">\r\n\r\n4. しばらく待つと画面遷移するので，そこでIBMid登録．\r\n5. ログイン後、画面をスクロールして「Data Science」をクリック．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 007 - IBM SkillsBuild Software Downloads - www.ibm.com.png (213.8 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/08/156984/a8c070db-b31f-4f48-9ee6-8ed640c9ed90.png\">\r\n\r\n6. 左メニューから「Software」を選択し，「ILOG CPLEX Optimization Studio」をクリック．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 008 - IBM SkillsBuild Software Downloads - www.ibm.",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/22",
+            "title": "TIPS/CPLEXのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "com.png (410.9 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/08/156984/316549ef-1430-4262-a5e3-8e50d56c0e74.png\">\r\n\r\n7. 出てきたポップアウトから「Download」をクリック．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 009 - IBM SkillsBuild Software Downloads - www.ibm.com.png (238.0 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/08/156984/974aa41b-765e-4a28-aaff-d66294287c92.png\">\r\n\r\n8. Download method を「Download Director」から「HTTP」に変更．\r\n9. 画面をスクロールして，自分が該当しているOSにチ",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/22",
+            "title": "TIPS/CPLEXのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "ェックを入れる．\r\n（支給されたMacBook Airなら「〜for OSX ARM64」にチェック）\r\nその後出てきた「I agree」にチェックを入れてから「Download now」をクリック．\r\n\r\n<img width=\"2940\" alt=\"FireShot Capture 010 - Software downloads - www-40.ibm.com.png (375.6 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/04/08/156984/22168a90-cd52-4739-9df9-f25b9b8b0e73.png\">\r\n\r\n10. ダウンロードを待つ．大体10分〜15分くらいかかるのでご飯でも食べに行こう :ramen:\r\n\r\nインストール\r\nダウンロードしたzipファイルを展開し，実行ファイルを解凍．\r\n（Mac の場合ダブルクリックで解凍できる）\r\n実行ファイルをダブルクリックしてインストーラを開き、指示に従ってインストールを行う．\r\n\r\nPATH追加\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/22",
+            "title": "TIPS/CPLEXのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "Windows の場合\r\nシステム環境変数のPathに下記を追加\r\n\r\nC:\\Program Files\\IBM\\ILOG\\CPLEXStudio2211\\cplex\\bin\\x64win64\r\n\r\n\r\nMac の場合\r\nターミナルを開き，<code>echo $SHELL</code>で現在使用しているシェルを確認．\r\nその後、以下のコマンドを実行．\r\nzsh の場合\r\n\r\necho 'export PATH=\"$PATH:/Applications/CPLEXStudio2211/cplex/bin/arm64osx' >> ~/.zshrc\r\nsource ~/.zshrc\r\nbash の場合\r\n\r\necho 'export PATH=\"$PATH:/Applications/CPLEXStudio2211/cplex/bin/arm64osx' >> ~/.bashprofile\r\nsource ~/.bashprofile\r\n\r\n\r\n動作確認\r\nターミナルで<code>cplex</code>と打ち込んで，CPLEXが起動すればインストール成功．\r\nお疲れ様でした．",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/22",
+            "title": "TIPS/CPLEXのインストール",
+            "category": "TIPS",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "M1 画像処理　農業　サプライチェーン\r\n@京都　⇔　神戸",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/26",
+            "title": "個人ページ/伊藤麟太郎",
+            "category": "個人ページ",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "自己紹介\r\nD1 画像処理　林業　サプライチェーン\r\n@京都　⇔　神戸\r\n\r\n参考文献\r\n林業\r\n画像処理",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/11",
+            "title": "個人ページ/yamaguchi",
+            "category": "個人ページ",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "決まり事\r\n企業とのミーティングの前にFのミーティングを通す",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/18",
+            "title": "MTG/固定/決まり事",
+            "category": "MTG/固定",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "発表者：舟橋\r\n資料\r\n\r\n\r\n指摘\r\n<details><summary>山下メモ</summary>\r\n\r\np10\r\n段取替は対象問題の話ではないのでは\r\n混ざっている\r\n\r\n今後の展望の中でも，次何するか明確でない\r\n今後どのように進めていくかわからない\r\n\r\n1番初めにやることはjcとgcを抜くことでは\r\n順序立てて行って\r\n\r\n3倍の話を早く撤廃して\r\n\r\n来週の金曜日までに2番（成形・加工の作業可能制限を20時間）を終わらせる\r\n\r\np1\r\n先生の名前はいらない\r\n\r\np2\r\n当たり前すぎていらない\r\n\r\np3\r\n機械台数に約をつけるとか\r\n大規模な生産→実生産で遅れが発生する，は話が飛んでいる\r\n\r\n現場の割り当ての変更がなぜ起こるか\r\n計画段階と運用段階で比較したらどうなるのか\r\nちょこていが多い\r\n計画を精緻に立てても運用できないため，一部の遅れが全体に波及してしまう可能性がある\r\n\r\n競馬の研究より自分の研究してくれ\r\nthe goal 読め\r\n\r\nネック工程の遅れが全体の遅れへつながる\r\n\r\n先行研究はいつになったら出てくるのか\r\n\r\n</details>\r\n\r\n",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/16",
+            "title": "MTG/2024年度/2024-04-03",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "\r\n連絡事項\r\n\r\nB4のテーマ決めておく",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/16",
+            "title": "MTG/2024年度/2024-04-03",
+            "category": "MTG/2024年度",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\n2020年4月 神戸大学工学部情報知能工学科 入学．\r\n2024年4月 神戸大学大学院システム情報学研究科 進学．\r\n奈良から通ってます．\r\n\r\n研究\r\n卒論タイトル「客観的臨床能力試験における映像情報を用いた模擬患者エージェント構築に関する基礎的研究」",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/13",
+            "title": "個人ページ/山下 貴大",
+            "category": "個人ページ",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "2023年度\r\n<img width=\"300\" alt=\"sheet.png (47.4 kB)\" src=\"https://files.esa.io/uploads/production/attachments/21001/2024/01/17/157291/b2deff12-8f88-4d61-b1bb-9fc5e8cd26e1.png\">\r\n\r\n\r\n\r\n| かかり   | メンバー               |\r\n| -------- | ---------------------- |\r\n| web      | かずま，わたなべ（俊） |\r\n| イベント | ふなっしー     |",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/12",
+            "title": "その他過去情報/座席・係など",
+            "category": "その他過去情報",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "概要\r\n学術研究員\r\nゲーム業界で10年近く働いたのち，やっぱ研究のほうがおもろいかもと思って戻ってきました．\r\nC++ と Python 使ってきたのでわからないところがあれば聞いてください．\r\n\r\n研究\r\nるーこ先生の研究を引き継いで，脳の健康指標 BHQ を JINS MEME のセンサーデータから測る研究をやっています．",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/6",
+            "title": "個人ページ/渡邉 俊介",
+            "category": "個人ページ",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "日時: \r\n場所: \r\n参加者: \r\n\r\nアジェンダ\r\n\r\n決定事項\r\n\r\n共有事項",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/4",
+            "title": "Templates/議事録/%{Year}/%{month}/%{day}/会議名",
+            "category": "Templates/議事録/%{Year}/%{month}/%{day}",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "前提\r\n\r\n手順\r\n\r\n注意点",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/3",
+            "title": "Templates/手順書/title",
+            "category": "Templates/手順書",
+            "tags": []
+        }
+    },
+    {
+        "chunk": "本日の作業内容\r\n[ ] Task\r\n[ ] Task\r\n[x] Task\r\n\r\n発生した問題\r\n\r\n明日の作業予定\r\n\r\n所感",
+        "metadata": {
+            "source": "https://cs18a.esa.io/posts/2",
+            "title": "Templates/日報/%{Year}/%{month}/%{day}/%{me}:title",
+            "category": "Templates/日報/%{Year}/%{month}/%{day}",
+            "tags": []
+        }
+    }
+]

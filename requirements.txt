@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+faiss-cpu
+tiktoken
+transformers
+torch
+streamlit
